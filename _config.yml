@@ -1,6 +1,4 @@
 theme: minima
-include:
-  - assets
 title: ""
 name: ""
 author: ""
@@ -9,4 +7,5 @@ author: ""
 plugins: [jekyll-feed]
 
 include:
+  - assets
   - assets/css/style.css
