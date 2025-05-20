@@ -2,3 +2,7 @@ theme: minima
 title: ""
 name: ""
 author: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
