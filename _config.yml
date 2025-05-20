@@ -1,3 +1,6 @@
 theme: minima
 include:
   - assets
+title: ""
+name: ""
+author: ""
