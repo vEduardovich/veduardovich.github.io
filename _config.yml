@@ -2,6 +2,3 @@ theme: minima
 title: ""
 name: ""
 author: ""
-
-# 추가 CSS 파일을 포함하도록 설정
-plugins: [jekyll-feed]
