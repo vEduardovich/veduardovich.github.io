@@ -1,30 +1,10 @@
 /* 예시: 링크 색상 조정 */
 a {
-  color: red; /* 연한 파랑이나 원하시는 색 */
+  color: #03A9F4; /* 연한 파랑이나 원하시는 색 */
   text-decoration: none;
 }
 
 a:hover {
   color: #cc3366;
   text-decoration: underline;
-}
-
-/* 전체 글자 크기 조정 */
-body {
-  font-family: "Helvetica", sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
-}
-
-/* 본문 너비 조절 */
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-/* 제목 스타일 */
-h1, h2, h3 {
-  color: #333;
-  margin-top: 2rem;
 }
