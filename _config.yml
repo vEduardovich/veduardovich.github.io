@@ -3,10 +3,6 @@ title: "finPin"
 name: "희미한 주식회사"
 author: "우강"
 
-sass:
-  style: compressed
-  sass_dir: _sass
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
