@@ -7,9 +7,9 @@ body {
 }
 
 a {
-  color: #70a0ff;
+  color: #4FC3F7;
   &:visited {
-    color: #5080d0;
+    color: #039BE5;
   }
   &:hover {
     color: #a0c0ff;
