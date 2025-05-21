@@ -1,7 +1,56 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 $link-base-color:#03A9F4;
 $link-visited-color:#03A9F4;
 $link-hover-color:#EF5350;
 
 @import "minima";
+
+
+// 여기에 커스텀 CSS 추가
+body {
+  background-color: #202020;
+  color: #e0e0e0;
+}
+
+a {
+  color: #70a0ff;
+  &:visited {
+    color: #5080d0;
+  }
+  &:hover {
+    color: #a0c0ff;
+  }
+}
+
+.site-header {
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #424242;
+  background-color: #181818;
+}
+
+.site-footer {
+  border-top: 1px solid #424242;
+  background-color: #181818;
+}
+
+.post-meta {
+  color: #909090;
+}
+
+.site-title, .site-title:visited {
+  color: #e0e0e0;
+}
+
+.site-nav .page-link {
+  color: #e0e0e0;
+}
+
+.footer-col-wrapper {
+  color: #909090;
+}
+
+.post-link {
+  color: #70a0ff;
+}
