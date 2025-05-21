@@ -6,9 +6,6 @@ author: "우강"
 minima:
   skin: dark
 
-sass:
-  style: compressed
-  sass_dir: _sass
 
 plugins:
   - jekyll-feed
