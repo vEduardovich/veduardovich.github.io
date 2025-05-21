@@ -1,4 +1,10 @@
-@import  url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff');
+/* @import  url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff'); */
+@font-face {
+  font-family: 'DungGeunMo';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 body {
   font-family: 'DungGeunMo', 'Montserrat', sans-serif;
@@ -19,7 +25,7 @@ h1 {
   color: yellow; 
 }
 h2 {
-  color: yellowgreen; margin-top: 20p;
+  color: yellowgreen; margin-top: 20px;
 }
 .site-header {
   border-top: 5px solid #424242;
@@ -51,13 +57,6 @@ h2 {
 .post-link {
   color: #70a0ff;
 }
-
-.post-content,
-.post-content p,
-.post-content li {
-  font-weight: normal !important;
-}
-
 
 code {
   background-color: #333;  /* 원하는 색상으로 변경 가능 */
