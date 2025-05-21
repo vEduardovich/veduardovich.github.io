@@ -51,3 +51,9 @@ h2 {
 .post-link {
   color: #70a0ff;
 }
+
+code {
+  background-color: #333;  /* 원하는 색상으로 변경 가능 */
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
