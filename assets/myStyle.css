@@ -1,4 +1,7 @@
+@import  url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff');
+
 body {
+  font-family: 'DungGeunMo', 'Montserrat', sans-serif;
   background-color: #202020;
   color: #e0e0e0;
 }
@@ -12,7 +15,12 @@ a {
     color: #a0c0ff;
   }
 }
-
+h1 {
+  color: yellow;
+}
+h2 {
+  color: yellowgreen;
+}
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #424242;
