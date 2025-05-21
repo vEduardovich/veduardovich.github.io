@@ -3,6 +3,9 @@ title: "finPin"
 name: "희미한 주식회사"
 author: "우강"
 
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
