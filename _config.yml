@@ -1,7 +1,7 @@
 theme: minima
-title: ""
-name: ""
-author: ""
+title: "finPin"
+name: "희미한 주식회사"
+author: "우강"
 
 plugins:
   - jekyll-feed
