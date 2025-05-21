@@ -1,13 +1,14 @@
 /* @import  url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff'); */
 @font-face {
   font-family: 'DungGeunMo';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Noto+Sans+KR&display=swap');
+  /* src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff'); */
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: 'Noto Serif KR', 'Montserrat', sans-serif;
+  font-family: 'Fira Code', 'Noto Sans KR', 'Montserrat', sans-serif;
   background-color: #202020;
   color: #e0e0e0;
 }
