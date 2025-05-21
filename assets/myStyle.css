@@ -1,13 +1,17 @@
-/* @import  url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff'); */
-@font-face {
+/* @font-face {
   font-family: 'DungGeunMo';
   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+} */
+@font-face {
+    font-family: 'DOSIyagiMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/DOSIyagiMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
-
 body {
-  font-family: 'DungGeunMo', 'Noto Sans KR', 'Montserrat', sans-serif;
+  font-family: 'DOSIyagiMedium','DungGeunMo', 'Noto Sans KR', 'Montserrat', sans-serif;
   background-color: #202020;
   color: #e0e0e0;
 }
@@ -56,6 +60,16 @@ h2 {
 
 .post-link {
   color: #70a0ff;
+}
+
+.page-content,
+.page-content .post-content,
+.page-content .post-content p,
+.page-content .post-content li,
+.page-content .post-content ul,
+.page-content .post-content ol,
+.page-content .post-content * {
+  font-weight: normal !important;
 }
 
 code {
