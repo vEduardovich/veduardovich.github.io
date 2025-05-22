@@ -43,6 +43,12 @@ h1 {
 h2 {
   color: yellowgreen; margin-top: 20px;
 }
+h3 {
+  color: #80CBC4;
+}
+h4 {
+  color: #9575CD;
+}
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #424242;

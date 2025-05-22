@@ -47,8 +47,8 @@ layout: post
 title: ${year}년 ${month}월 ${day}일 ${weekday}
 permalink: /${year}/${monthPadded}/${day}/
 ---
-**수면** :
-* #### 개발
+####수면 :
+* ### 개발
 1. 
 `;
 
