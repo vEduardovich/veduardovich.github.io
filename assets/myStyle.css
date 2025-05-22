@@ -74,16 +74,6 @@ h2 {
   color: #70a0ff;
 }
 
-.page-content,
-.page-content .post-content,
-.page-content .post-content p,
-.page-content .post-content li,
-.page-content .post-content ul,
-.page-content .post-content ol,
-.page-content .post-content * {
-  font-weight: normal !important;
-}
-
 code {
   background-color: #333;  /* 원하는 색상으로 변경 가능 */
   padding: 0.2em 0.4em;
