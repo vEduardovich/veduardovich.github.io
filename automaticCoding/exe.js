@@ -26,7 +26,7 @@ const monthMap = {
   '5월': '05'
 };
 
-// 모든 줄바꿈에 <br/> 추가 (리스트, 헤딩, 빈 줄 제외)
+// 모든 줄바꿈에 <br/> 추가
 function addLineBreaks(content) {
   const lines = content.split('\n');
   const result = [];
@@ -34,23 +34,11 @@ function addLineBreaks(content) {
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i].trim();
     
-    // 빈 줄, 리스트(-, *), 헤딩(#)은 <br/> 추가 제외
-    if (line === '' || line.startsWith('-') || line.startsWith('*') || line.startsWith('#')) {
-      result.push(line);
-      continue;
-    }
-    
-    // 줄바꿈이 있으면 <br/> 추가
+    // 모든 줄에 <br/> 추가 (마지막 줄 제외)
     if (i < lines.length - 1) {
-      // 다음 줄이 빈 줄, 리스트, 헤딩이 아니면 <br/>
-      const nextLine = lines[i + 1]?.trim() || '';
-      if (nextLine && !nextLine.startsWith('-') && !nextLine.startsWith('*') && !nextLine.startsWith('#')) {
-        result.push(`${line}<br/>`);
-      } else {
-        result.push(line);
-      }
+      result.push(`${line}<br/>`);
     } else {
-      result.push(line); // 마지막 줄은 <br/> 제외
+      result.push(line);
     }
   }
   
