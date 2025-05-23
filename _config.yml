@@ -4,6 +4,10 @@ title: "finPin"
 name: "희미한 주식회사"
 author: "우강"
 
+header_pages:
+  - about.md
+  - contact.md
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
