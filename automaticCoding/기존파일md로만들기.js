@@ -84,6 +84,7 @@ async function splitMarkdownFile() {
 layout: post
 title: 2025년 ${month} ${day}일 ${weekday}
 permalink: /2025/${monthNum}/${day}/
+categories: [ 일상 ]
 ---
 ${processedContent}`;
 
