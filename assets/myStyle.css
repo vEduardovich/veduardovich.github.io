@@ -79,11 +79,6 @@ h4 {
 .post-link {
   color: #70a0ff;
 }
-.wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
 code {
   background-color: #333;  /* 원하는 색상으로 변경 가능 */
