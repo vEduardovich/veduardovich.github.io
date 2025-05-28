@@ -1,0 +1,42 @@
+---
+layout: default
+title: Categories
+permalink: /categories/
+---
+
+<h1>카테고리별 글</h1>
+
+{% assign all_categories = site.posts | map: "categories" | join: "," | split: "," | uniq | sort %}
+
+<ul>
+  {% for category in all_categories %}
+    {% if category != "" %}
+      <li><a href="#{{ category | slugify }}">{{ category }}</a></li>
+    {% endif %}
+  {% endfor %}
+  <li><a href="#uncategorized">Uncategorized</a></li>
+</ul>
+
+<hr>
+
+{% for category in all_categories %}
+  {% if category != "" %}
+    <h2 id="{{ category | slugify }}">{{ category }}</h2>
+    <ul>
+      {% for post in site.posts %}
+        {% if post.categories contains category %}
+          <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
+
+<h2 id="uncategorized">Uncategorized</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories == nil or post.categories == empty %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
