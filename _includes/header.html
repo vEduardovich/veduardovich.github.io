@@ -3,7 +3,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
-    
+
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
     {%- unless page_titles == empty %}
@@ -14,9 +14,15 @@
         </label>
 
         <div class="trigger">
-          {% include nav-items.html paths=page_paths %}
+          <!-- 기존 메뉴 출력 -->
+          {% for path in page_paths %}
+            {% assign page = site.pages | where: "path", path | first %}
+            {% if page.title %}
+              <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+            {% endif %}
+          {% endfor %}
 
-          <!-- ✅ 카테고리 링크 추가 -->
+          <!-- ✅ 여기 추가 -->
           <a class="page-link" href="{{ '/categories/' | relative_url }}">카테고리</a>
         </div>
       </nav>
