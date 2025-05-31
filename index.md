@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
