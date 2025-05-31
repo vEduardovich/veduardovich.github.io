@@ -7,16 +7,17 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }} {# 이 부분은 index.md 등의 내용을 렌더링할 수 있습니다. #}
+  {{ content }}
 
-  {# Find the sticky posts #}
+  {# Sticky posts와 일반 posts를 분리합니다 #}
   {% assign sticky_posts = site.posts | where: "sticky", true | sort: "date" | reverse %}
+  {% assign normal_posts = site.posts | where_exp:"post", "post.sticky != true" %}
 
   {% comment %} 최상단에 고정된 글을 먼저 표시합니다 {% endcomment %}
   {% if sticky_posts.size > 0 %}
     <h2 class="post-list-heading">공지사항</h2> {# 공지사항 섹션의 제목을 지정할 수 있습니다 #}
     <ul class="post-list">
-      {% for post in sticky_posts %}
+      {% for post in sticky_posts %} {# 모든 스티키 포스트를 표시하려면 `limit` 필터를 제거합니다. #}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -34,29 +35,26 @@ layout: default
     <hr> {# 공지사항과 일반 글 목록을 구분하는 구분선입니다 (선택 사항) #}
   {% endif %}
 
-  {# 일반 글들을 표시합니다. sticky 속성이 없는 글만 렌더링합니다. #}
+  {# 나머지 일반 글들을 표시합니다 #}
   <h2 class="post-list-heading">{{ site.title }}</h2> {# 또는 "최신 글" 등으로 변경 가능 #}
   <ul class="post-list">
-    {% for post in site.posts %} {# site.posts 전체를 순회합니다 #}
-      {% unless post.sticky %} {# sticky 속성이 없는 글만 출력합니다 #}
-        <li>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
+    {% for post in normal_posts %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
             {{ post.excerpt }}
-          {%- endif -%}
-        </li>
-      {% endunless %}
+        {%- endif -%}
+      </li>
     {% endfor %}
   </ul>
 
   {% if site.paginate %}
-    {# (페이지네이션 코드는 기존과 동일하게 유지) #}
     <div class="pager">
       <ul class="pagination">
         {%- if paginator.previous_page %}
