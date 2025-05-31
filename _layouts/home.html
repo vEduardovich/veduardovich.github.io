@@ -10,41 +10,41 @@ layout: default
   {{ content }}
 
   {% assign sticky_posts = site.posts | where: "sticky", true | sort: "date" | reverse %}
-  {% assign normal_posts = site.posts | where_exp:"post", "post.sticky != true" %}
 
-  <!-- {% comment %} 최상단에 고정된 글을 먼저 표시합니다 {% endcomment %} -->
   {% if sticky_posts.size > 0 %}
     <h2 class="post-list-heading">중요</h2>
     <ul class="post-list">
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {{ post.content }} 
-      </li>
+      {% for post in sticky_posts %}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {{ post.content }}
+        </li>
       {% endfor %}
     </ul>
     <hr>
   {% endif %}
 
-  <!-- <h2 class="post-list-heading">{{ site.title }}</h2> -->
+  <h2 class="post-list-heading">{{ site.title }}</h2>
   <ul class="post-list">
-    {% for post in normal_posts %}
-            <li>
-              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-              <!-- <span class="post-meta">{ㄴ{ post.date | date: date_format }}</span> -->
-              <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h3>
-              {# 여기서 post.excerpt 대신 post.content를 사용합니다 #}
-              {{ post.content }} 
-            </li>
+    {% for post in site.posts %}
+      {% unless post.sticky %}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {{ post.content }}
+        </li>
+      {% endunless %}
     {% endfor %}
   </ul>
 
