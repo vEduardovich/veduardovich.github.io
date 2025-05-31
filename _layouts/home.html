@@ -12,7 +12,7 @@ layout: default
   {% assign sticky_posts = site.posts | where: "sticky", true | sort: "date" | reverse %}
 
   {% if sticky_posts.size > 0 %}
-    <h2 class="post-list-heading">중요</h2>
+    <!-- <h2 class="post-list-heading">중요</h2> -->
     <ul class="post-list">
       {% for post in sticky_posts %}
         <li>
@@ -30,7 +30,7 @@ layout: default
     <hr>
   {% endif %}
 
-  <h2 class="post-list-heading">{{ site.title }}</h2>
+  <!-- <h2 class="post-list-heading">{{ site.title }}</h2> -->
   <ul class="post-list">
     {% for post in site.posts %}
       {% unless post.sticky %}
