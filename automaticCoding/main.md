@@ -342,7 +342,7 @@ const props = defineProps<{
 
 const emit = defineEmits<{
  (e: 'update:modelValue', value: boolean): void;
- (e: 'yesOrNo', value: boolean): void;
+ (e: 'yes-or-no', value: boolean): void;
 }>();
 
 회원가입 vue 클라 - sign/up 처리
