@@ -49,6 +49,9 @@ permalink: /${year}/${monthPadded}/${day}/
 categories: [ 일상 ]
 ---
 #### 수면 :
+* ### 목표
+1. 
+
 * ### 개발
 1. 
 `;
