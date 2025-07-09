@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "dayjs": "^1.11.13"
+    "dayjs": "^1.11.13",
+    "node-schedule": "^2.1.1"
   }
 }
