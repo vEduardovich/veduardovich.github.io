@@ -49,15 +49,14 @@ permalink: /${year}/${monthPadded}/${day}/
 categories: [ 일상 ]
 ---
 #### 수면 :
-* ### 목표
-1. 
-
 * ### 작업
 1. 
 
+`;
+/*
 * ### 개발
 1. 
-`;
+*/
 
     // 파일 저장
     await fs.writeFile(filePath, fileContent, 'utf8');
