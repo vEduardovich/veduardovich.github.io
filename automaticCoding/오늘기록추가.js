@@ -45,7 +45,7 @@ async function createDailyPost() {
     const fileContent = `---
 layout: post
 title: ${year}년 ${month}월 ${day}일 ${weekday}
-permalink: /${year}/${monthPadded}/${day}/
+permalink: ${year}/${monthPadded}/${day}/
 categories: [ 일상 ]
 ---
 #### 수면 :
