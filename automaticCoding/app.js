@@ -5,7 +5,7 @@
 import schedule from 'node-schedule'; // 스케쥴에 맞춰 실행시키는 모듈
 import { exec } from 'child_process';
 
-const sitemapTime = `0 10 6 * * *`;// 매일 6시 10분에 발동
+const sitemapTime = `0 10 5 * * *`;// 매일 5시 10분에 발동
 
 console.log('스케쥴서버 작동 중..');
 schedule.scheduleJob(sitemapTime, async () => {
