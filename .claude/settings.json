@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/ufo/vGit/Projects/**)",
+      "Read(//Users/ufo/vGit/**)",
+      "Bash(cp -r ~/.claude/projects/-Users-ufo-himion-vGit-Projects-kopa ~/.claude/projects/-Users-ufo-vGit-Projects-kopa)",
+      "Bash(cp -r ~/.claude/projects/-Users-ufo-himion-vGit-Projects-YouShallAdoreYet ~/.claude/projects/-Users-ufo-vGit-Projects-YouShallAdoreYet)",
+      "Bash(cp -r ~/.claude/projects/-Users-ufo-himion-vGit-finPin ~/.claude/projects/-Users-ufo-vGit-finPin)"
+    ]
+  }
+}
