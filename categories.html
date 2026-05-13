@@ -14,7 +14,7 @@ permalink: /categories/
       <li><a href="#{{ category | slugify }}">{{ category }}</a></li>
     {% endif %}
   {% endfor %}
-  <!-- <li><a href="#uncategorized">Uncategorized</a></li> -->
+  <li><a href="#archive-2025">2025년 기록</a></li>
 </ul>
 
 <hr>
@@ -32,11 +32,30 @@ permalink: /categories/
   {% endif %}
 {% endfor %}
 
-<!-- <h2 id="uncategorized">Uncategorized</h2>
-<ul>
+<hr>
+
+<h2 id="archive-2025">2025년 기록</h2>
+
+{% assign months_ko = "1월,2월,3월,4월,5월,6월,7월,8월,9월,10월,11월,12월" | split: "," %}
+
+{% for month_num in (1..12) %}
+  {% assign month_str = month_num | prepend: "0" | slice: -2, 2 %}
+  {% assign posts_in_month = "" | split: "" %}
   {% for post in site.posts %}
-    {% if post.categories == nil or post.categories == empty %}
-      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% assign post_year = post.date | date: "%Y" %}
+    {% assign post_month = post.date | date: "%m" %}
+    {% if post_year == "2025" and post_month == month_str %}
+      {% assign posts_in_month = posts_in_month | push: post %}
     {% endif %}
   {% endfor %}
-</ul> -->
+  {% if posts_in_month.size > 0 %}
+    {% assign month_index = month_num | minus: 1 %}
+    {% assign month_label = months_ko[month_index] %}
+    <h3 id="archive-2025-{{ month_str }}">2025년 {{ month_label }}</h3>
+    <ul>
+      {% for post in posts_in_month %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

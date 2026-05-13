@@ -9,12 +9,20 @@ layout: default
 
   {{ content }}
 
-  {% assign sticky_posts = site.posts | where: "sticky", true | sort: "date" | reverse %}
+  {% assign current_year = site.time | date: "%Y" %}
 
-  {% if sticky_posts.size > 0 %}
-    <!-- <h2 class="post-list-heading">중요</h2> -->
+  {% assign sticky_posts = site.posts | where: "sticky", true | sort: "date" | reverse %}
+  {% assign sticky_this_year = "" | split: "" %}
+  {% for post in sticky_posts %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if post_year == current_year %}
+      {% assign sticky_this_year = sticky_this_year | push: post %}
+    {% endif %}
+  {% endfor %}
+
+  {% if sticky_this_year.size > 0 %}
     <ul class="post-list">
-      {% for post in sticky_posts %}
+      {% for post in sticky_this_year %}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -30,40 +38,23 @@ layout: default
     <hr>
   {% endif %}
 
-  <!-- <h2 class="post-list-heading">{{ site.title }}</h2> -->
   <ul class="post-list" style='margin-top:50px;'>
     {% for post in site.posts %}
       {% unless post.sticky %}
-        <li>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {{ post.content }}
-        </li>
+        {% assign post_year = post.date | date: "%Y" %}
+        {% if post_year == current_year %}
+          <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            {{ post.content }}
+          </li>
+        {% endif %}
       {% endunless %}
     {% endfor %}
   </ul>
-
-  {% if site.paginate %}
-    <div class="pager">
-      <ul class="pagination">
-        {%- if paginator.previous_page %}
-        <li><a class="previous" href="{{ paginator.previous_page_path | relative_url }}">{{ paginator.previous_page_number }}</a></li>
-        {%- else %}
-        <li><span class="previous">{{ site.text_next }}</span></li>
-        {%- endif %}
-        <li><span class="page_number">{{ paginator.page }}</span></li>
-        {%- if paginator.next_page %}
-        <li><a class="next" href="{{ paginator.next_page_path | relative_url }}">{{ paginator.next_page_number }}</a></li>
-        {%- else %}
-        <li><span class="next">{{ site.text_previous }}</span></li>
-        {%- endif %}
-      </ul>
-    </div>
-  {% endif %}
 
 </div>
