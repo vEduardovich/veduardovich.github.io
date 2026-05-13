@@ -1,0 +1,2284 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "logo 희미한 주식회사" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "logo" [ref=e5]
+        - text: 희미한 주식회사
+      - navigation [ref=e6]:
+        - link "카테고리" [ref=e8] [cursor=pointer]:
+          - /url: /categories/
+  - main "Content" [ref=e9]:
+    - list [ref=e12]:
+      - listitem [ref=e13]:
+        - heading "2026년 5월 13일 수요일" [level=3] [ref=e14]:
+          - link "2026년 5월 13일 수요일" [ref=e15] [cursor=pointer]:
+            - /url: /2026/05/13/
+        - 'heading "수면 : 12시 20분 ~ 9시 50분 : 9시간 30분" [level=4] [ref=e16]'
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - heading "작업" [level=3] [ref=e19]
+            - list [ref=e20]:
+              - listitem [ref=e21]: 클로드 mcp작업 –> 모두 완료 | Playwright | 브라우저 자동화, 스크린샷, 콘솔 에러 확인 | | GitHub | PR 생성, 이슈 관리, 코드 리뷰 | | Supabase | DB 직접 조회/수정, 스키마 확인 | | Sentry | 에러 로그 직접 조회 | | Cloudflare | Workers 배포 상태, 로그, Analytics 확인 | | Blender | Blender 직접 제어 — 오브젝트 생성/수정, 머티리얼, 애니메이션, Python 스크립트 실행 | | local-llm | 로컬 MLX 모델 호출 — 페르소나 3개 (Joi / 서은수 / 귀곡자). mlx-server 실행 필요 |
+        - list [ref=e22]:
+          - listitem [ref=e23]: 이제 클로드에서 로컬llm도 바로 접근이 가능해졌다.
+          - listitem [ref=e24]: 다양한 블렌더 테스트 –> 아직 모델링에는 쓸게 못된다.
+          - listitem [ref=e25]: codeBaseCamp가 훨씬 더 탄탄해졌다.
+      - listitem [ref=e26]:
+        - heading "2026년 5월 12일 화요일" [level=3] [ref=e27]:
+          - link "2026년 5월 12일 화요일" [ref=e28] [cursor=pointer]:
+            - /url: /2026/05/12/
+        - 'heading "수면 : 12시 40분 ~ 9시 58분 : 9시간 18분" [level=4] [ref=e29]'
+        - list [ref=e30]:
+          - listitem [ref=e31]:
+            - heading "작업" [level=3] [ref=e32]
+            - list [ref=e33]:
+              - listitem [ref=e34]: 바이브 코딩 이론 업데이트중
+      - listitem [ref=e35]:
+        - heading "2026년 5월 11일 월요일" [level=3] [ref=e36]:
+          - link "2026년 5월 11일 월요일" [ref=e37] [cursor=pointer]:
+            - /url: /2026/05/11/
+        - 'heading "수면 : 2시 45분 ~ 9시 30분 : 6시간 45분" [level=4] [ref=e38]'
+        - list [ref=e39]:
+          - listitem [ref=e40]:
+            - heading "작업" [level=3] [ref=e41]
+            - list [ref=e42]:
+              - listitem [ref=e43]: 이제 흔들릴게 없다. 내가 기적을 만들어내야한다. 내 안에서 솟아나오는것, 그것밖에 남지 않았다.
+          - listitem [ref=e44]:
+            - heading "개발" [level=3] [ref=e45]
+            - list [ref=e46]:
+              - listitem [ref=e47]: 도다리2 README.md 언어별로 분리
+              - listitem [ref=e48]: 안드레카파시 cluade.md 추가 및 적용
+        - paragraph [ref=e49]: 운동완료
+      - listitem [ref=e50]:
+        - heading "2026년 5월 10일 일요일" [level=3] [ref=e51]:
+          - link "2026년 5월 10일 일요일" [ref=e52] [cursor=pointer]:
+            - /url: /2026/05/10/
+        - 'heading "수면 : 새벽 4시 15분 ~ 10시 15분 : 6시간" [level=4] [ref=e53]'
+        - list [ref=e54]:
+          - listitem [ref=e55]:
+            - heading "작업" [level=3] [ref=e56]
+            - list [ref=e57]:
+              - listitem [ref=e58]: 하루종일 눈물마시는새 읽고 no man’s sky 플레이함
+      - listitem [ref=e59]:
+        - heading "2026년 5월 09일 토요일" [level=3] [ref=e60]:
+          - link "2026년 5월 09일 토요일" [ref=e61] [cursor=pointer]:
+            - /url: /2026/05/09/
+        - 'heading "수면 : 새벽 1시 45분 ~ 9시 50분 : 8시간 5분" [level=4] [ref=e62]'
+        - list [ref=e63]:
+          - listitem [ref=e64]:
+            - heading "작업" [level=3] [ref=e65]
+            - list [ref=e66]:
+              - listitem [ref=e67]: 하루종일 눈물마시는새 읽고 no man’s sky 플레이함
+      - listitem [ref=e68]:
+        - heading "2026년 5월 08일 금요일" [level=3] [ref=e69]:
+          - link "2026년 5월 08일 금요일" [ref=e70] [cursor=pointer]:
+            - /url: /2026/05/08/
+        - 'heading "수면 : 2시 ~ 9시 20분 : 7시 20분. 고통에 몸부림치다 일어났다. 계속 일어나기만 했다. 이 정도 압박이 언제였었나. 그때는 어떻게 헤쳐나갔지. 기억을 찾고있다." [level=4] [ref=e71]'
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - heading "개발" [level=3] [ref=e74]
+            - list [ref=e75]:
+              - listitem [ref=e76]: 에밀리 모델 만들기
+              - listitem [ref=e77]: 에밀리 올리기
+      - listitem [ref=e78]:
+        - heading "2026년 5월 07일 목요일" [level=3] [ref=e79]:
+          - link "2026년 5월 07일 목요일" [ref=e80] [cursor=pointer]:
+            - /url: /2026/05/07/
+        - 'heading "수면 : 12시 40분 ~ 9시 50분 : 9시간 10분" [level=4] [ref=e81]'
+        - list [ref=e82]:
+          - listitem [ref=e83]:
+            - heading "작업" [level=3] [ref=e84]
+            - list [ref=e85]:
+              - listitem [ref=e86]: 다시 생각해도 어떻게 이럴수가 있나. 비정상적인 클로드 신청이 지난 몇달간 문제없다 바로 내 차례에 밝혀져서 막혔다니 말이다. 일주일 후에는 해결이 될까. 요새 세상이 나를 왜 이렇게까지 핀치에 몰아넣는지, 이유를 모르겠다. 이렇게까지 할 필요는 없지 않은가
+          - listitem [ref=e87]:
+            - heading "개발" [level=3] [ref=e88]
+            - list [ref=e89]:
+              - listitem [ref=e90]: 좋게 생각하기로 했다. 일주일간 기획을 확실히 보완하고 잘 몰랐던 babylonjs로 익혀놓자. 오히려 클로드 사용 시간 일주일을 벌었다고 생각하자. 자, 가즈아.
+          - listitem [ref=e91]:
+            - heading "결심" [level=3] [ref=e92]
+            - list [ref=e93]:
+              - listitem [ref=e94]: 다 왔다. 드디어 결심이 섰다.
+          - listitem [ref=e95]: 내가 틀렸다면 책임을 지는게 맞다.
+          - listitem [ref=e96]: 부모님께 빚을 갚는게 맞다. 마지막으로 최선을 다하고 갚자.
+          - listitem [ref=e97]: 마음이 편해졌다. 인정하니 이토록 편해질수가 없다. 20년만인가.
+        - paragraph [ref=e98]: 운동못감
+      - listitem [ref=e99]:
+        - heading "2026년 5월 06일 수요일" [level=3] [ref=e100]:
+          - link "2026년 5월 06일 수요일" [ref=e101] [cursor=pointer]:
+            - /url: /2026/05/06/
+        - 'heading "수면 : 1시 40분 ~ 9시 40분 : 8시간 - 다시 수면 시간이 늦어지고 있다. 조절하자." [level=4] [ref=e102]'
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - heading "작업" [level=3] [ref=e105]
+            - list [ref=e106]:
+              - listitem [ref=e107]: 코리아스타트업포럼 클로드 연결이 안되고 있다.
+          - listitem [ref=e108]: 메일을 보냈더니 잠시 링크가 깨진거라고 한다
+          - listitem [ref=e109]: 그런데 잠시가 아니다. 계속 안되고 있다. 5시쯤에 한번 더 문의해보자.
+        - list [ref=e110]:
+          - listitem [ref=e111]:
+            - text: 누군가 공짜로 사용하는 용도로 접속 링크를 이용했었나보다.
+            - list [ref=e112]:
+              - listitem [ref=e113]: 바로 내 앞에서 그런일이 벌어진다니
+              - listitem [ref=e114]: 13일까지 점검한다고 한다. 일주일을 기다려야 한다.
+          - listitem [ref=e115]: 주식은 또 대폭등했다.
+        - list [ref=e116]:
+          - listitem [ref=e117]:
+            - heading "개발" [level=3] [ref=e118]
+            - list [ref=e119]:
+              - listitem [ref=e120]: 개발 일정을 바꿨다. You shall adore, yet 개발을 제일 먼저한다.
+              - listitem [ref=e121]: 그러기 위해서 주인공의 이름도 Emily로 변경했다.
+              - listitem [ref=e122]: 게임 이름로 확정해야한다. 지금은 너무 길다. –> Emily, yet
+        - paragraph [ref=e123]: 운동완료
+      - listitem [ref=e124]:
+        - heading "2026년 5월 05일 화요일" [level=3] [ref=e125]:
+          - link "2026년 5월 05일 화요일" [ref=e126] [cursor=pointer]:
+            - /url: /2026/05/05/
+        - 'heading "수면 : 1시 ~ 9시 50분 : 8시간 50분" [level=4] [ref=e127]'
+        - list [ref=e128]:
+          - listitem [ref=e129]:
+            - heading "작업" [level=3] [ref=e130]
+            - list [ref=e131]:
+              - listitem [ref=e132]: 코리아스타트업포럼 정회원 신청 완료
+          - listitem [ref=e133]:
+            - heading "개발" [level=3] [ref=e134]
+            - list [ref=e135]:
+              - listitem [ref=e136]: 도다리2 다국어 버전 개발중
+      - listitem [ref=e137]:
+        - heading "2026년 5월 04일 월요일" [level=3] [ref=e138]:
+          - link "2026년 5월 04일 월요일" [ref=e139] [cursor=pointer]:
+            - /url: /2026/05/04/
+        - 'heading "수면 : 12시 20분 ~ 8시 50분 : 8시간 30분" [level=4] [ref=e140]'
+        - list [ref=e141]:
+          - listitem [ref=e142]:
+            - heading "개발" [level=3] [ref=e143]
+            - list [ref=e144]:
+              - listitem [ref=e145]: 도다리2 윈도우 플랫폼 추가
+          - listitem [ref=e146]: 이제 이걸 어떻게 알릴 것인가 좀더 고민하자
+          - listitem [ref=e147]:
+            - text: 내 고향(https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=212505&page=1)에 알림ㅠ
+            - list [ref=e148]:
+              - listitem [ref=e149]: 이렇게 좋은 프로그램이 실패한다면 그건 내 사업자적 역량의 부족이다. 어떻게든 방법을 찾아야한다.
+      - listitem [ref=e150]:
+        - heading "2026년 5월 03일 일요일" [level=3] [ref=e151]:
+          - link "2026년 5월 03일 일요일" [ref=e152] [cursor=pointer]:
+            - /url: /2026/05/03/
+        - 'heading "수면 : 12시 20분 ~ 9시 40분 : 9시간 20분 - 그 동안 스트레스가 심했나보다. 아주 깊게 잤다." [level=4] [ref=e153]'
+        - list [ref=e154]:
+          - listitem [ref=e155]:
+            - heading "작업" [level=3] [ref=e156]
+            - list [ref=e157]:
+              - listitem [ref=e158]: 코리아스타트업포럼 정회원 신청하고 입금까지 해놓기 –> 못함
+      - listitem [ref=e159]:
+        - heading "2026년 5월 02일 토요일" [level=3] [ref=e160]:
+          - link "2026년 5월 02일 토요일" [ref=e161] [cursor=pointer]:
+            - /url: /2026/05/02/
+        - 'heading "수면 : 12시 40분 ~ 7시 : 6시간 20분" [level=4] [ref=e162]'
+        - list [ref=e163]:
+          - listitem [ref=e164]:
+            - heading "작업" [level=3] [ref=e165]
+            - list [ref=e166]:
+              - listitem [ref=e167]: 도다리2 스마트스토어 작업 –> 완료
+          - listitem [ref=e168]: 디자인 작업 완료
+          - listitem [ref=e169]:
+            - text: 연결된 페이지 업데이트 완료
+            - list [ref=e170]:
+              - listitem [ref=e171]: 도다리2
+      - listitem [ref=e172]:
+        - heading "2026년 5월 01일 금요일" [level=3] [ref=e173]:
+          - link "2026년 5월 01일 금요일" [ref=e174] [cursor=pointer]:
+            - /url: /2026/05/01/
+        - 'heading "수면 : 1시 15분 ~ 8시 50분 : 7시간 35분" [level=4] [ref=e175]'
+        - list [ref=e176]:
+          - listitem [ref=e177]:
+            - heading "개발" [level=3] [ref=e178]
+            - list [ref=e179]:
+              - listitem [ref=e180]: 도다리2 README.md 작업 –> 완료
+              - listitem [ref=e181]: github에 공개완료 –> 완료
+              - listitem [ref=e182]: finpin메인 페이지 업데이트 하기 –> 완료
+          - listitem [ref=e183]:
+            - heading "도다리 홍보" [level=3] [ref=e184]
+            - list [ref=e185]:
+              - listitem [ref=e186]: 외국어대 통역 대학원에 메일 보내기 –> 완료
+              - listitem [ref=e187]: geeknew에 글올리기 –> 완료
+      - listitem [ref=e188]:
+        - heading "2026년 4월 30일 목요일" [level=3] [ref=e189]:
+          - link "2026년 4월 30일 목요일" [ref=e190] [cursor=pointer]:
+            - /url: /2026/04/30/
+        - 'heading "수면 : 1시 40분 ~ 6시 50분 : 5시간 10분" [level=4] [ref=e191]'
+        - list [ref=e192]:
+          - listitem [ref=e193]:
+            - heading "작업" [level=3] [ref=e194]
+            - list [ref=e195]:
+              - listitem [ref=e196]: 여전히 모델 최적화 작업중
+      - listitem [ref=e197]:
+        - heading "2026년 4월 29일 수요일" [level=3] [ref=e198]:
+          - link "2026년 4월 29일 수요일" [ref=e199] [cursor=pointer]:
+            - /url: /2026/04/29/
+        - 'heading "수면 : 12시 ~ 8시 : 8시간" [level=4] [ref=e200]'
+        - list [ref=e201]:
+          - listitem [ref=e202]:
+            - heading "개발" [level=3] [ref=e203]
+            - list [ref=e204]:
+              - listitem [ref=e205]: 도다리 번역 테스트
+          - listitem [ref=e206]: e4b, 31b 의 epub, pdf 품질및 속도 테스트
+          - listitem [ref=e207]: 4090에서 다시 문제가 생겼다. 이건 내일 좀더 확인해보자
+        - paragraph [ref=e208]: 작업에 치여 운동못했다. 내일 열심히 하자
+        - paragraph [ref=e209]: 내일 확인할 것들
+        - list [ref=e210]:
+          - listitem [ref=e211]: 4090에서 pdf 청크 잘하는지. epub, pdf 번역 모두 테스트하기
+          - listitem [ref=e212]: 각 책별로 걸린 시간 잘 표시되는지 확인하기
+          - listitem [ref=e213]: 실시간 진행시간 시분초로 표시 잘되는지 확인하기 + github버전도 확인하기
+      - listitem [ref=e214]:
+        - heading "2026년 4월 28일 화요일" [level=3] [ref=e215]:
+          - link "2026년 4월 28일 화요일" [ref=e216] [cursor=pointer]:
+            - /url: /2026/04/28/
+        - 'heading "수면 : 11시 50분 ~4시, 5시 ~ 9시 : 8시간 10분" [level=4] [ref=e217]'
+        - list [ref=e218]:
+          - listitem [ref=e219]:
+            - heading "작업" [level=3] [ref=e220]
+            - list [ref=e221]:
+              - listitem [ref=e222]: 감기가 나아간다
+          - listitem [ref=e223]:
+            - heading "개발" [level=3] [ref=e224]
+            - list [ref=e225]:
+              - listitem [ref=e226]: mlx서빙으로 모두 변경완료
+              - listitem [ref=e227]: 모든 모델 다운로드 완료
+              - listitem [ref=e228]: openwebui와 연결 완료
+        - paragraph [ref=e229]: 운동완료
+      - listitem [ref=e230]:
+        - heading "2026년 4월 27일 월요일" [level=3] [ref=e231]:
+          - link "2026년 4월 27일 월요일" [ref=e232] [cursor=pointer]:
+            - /url: /2026/04/27/
+        - 'heading "수면 : 10시 50분 ~ 3시 + 5시 ~ 9시 : 8시간 10분. 감기에 취해 했다. 책과 감기와 나무만 옆에 있다." [level=4] [ref=e233]'
+        - list [ref=e234]:
+          - listitem [ref=e235]:
+            - heading "작업" [level=3] [ref=e236]
+            - list [ref=e237]:
+              - listitem [ref=e238]: 몸이 너무 안좋다. 오늘은 녹화를 하지 않는다.
+              - listitem [ref=e239]: 운동도 못가겠다. 내일은 좀 나아지기를.
+          - listitem [ref=e240]:
+            - heading "개발" [level=3] [ref=e241]
+            - list [ref=e242]:
+              - listitem [ref=e243]: finPin 리뉴얼
+          - listitem [ref=e244]:
+            - deletion [ref=e245]: 팀소개
+          - listitem [ref=e246]:
+            - deletion [ref=e247]: 문의하기시 s3에 저장되도록 수정
+            - text: –> 메일과 슬랙으로 링크 전송까지 완료 –> 이것도 AI 덕분에 쉽게 수정했다. 이젠 순수 내 코드 플랫폼에서도 AI에 종속되고 있다.
+          - listitem [ref=e248]:
+            - deletion [ref=e249]: 업로드 용량 1000mb로 상향
+          - listitem [ref=e250]: 메인페이지 컨텐츠 보강∂
+      - listitem [ref=e251]:
+        - heading "2026년 4월 26일 일요일" [level=3] [ref=e252]:
+          - link "2026년 4월 26일 일요일" [ref=e253] [cursor=pointer]:
+            - /url: /2026/04/26/
+        - 'heading "수면 : 12시 20분 ~ 7시 : 6시간 40분" [level=4] [ref=e254]'
+        - list [ref=e255]:
+          - listitem [ref=e256]:
+            - heading "작업" [level=3] [ref=e257]
+            - list [ref=e258]:
+              - listitem [ref=e259]: 감기가 아주 심해졌다. 도다리 공개용 소스코드도 완성했다. README.md 만들어야하는데 몸이 정상이 아니다. 좀 나아지면 하자.
+          - listitem [ref=e260]:
+            - heading "개발" [level=3] [ref=e261]
+            - list [ref=e262]:
+              - listitem [ref=e263]: mlx-community/gemma-4-e4b-it-8bit의 품질도 좋다.
+      - listitem [ref=e264]:
+        - heading "2026년 4월 25일 토요일" [level=3] [ref=e265]:
+          - link "2026년 4월 25일 토요일" [ref=e266] [cursor=pointer]:
+            - /url: /2026/04/25/
+        - 'heading "수면 : 12시 10분 ~ 9시 50분 : 밤새 콧속에서 감기와 백혈구들이 싸웠다. 수많은 나의 백혈구들이 이 전투에서 하늘로 떴다. 내가 뭐라고 나를 위해 그토록 최선을 다하는걸까. 그들의 죽음이 고통으로 다가왔다. 코감기 목감기는 물리적으로 너무나 아프다." [level=4] [ref=e267]'
+        - list [ref=e268]:
+          - listitem [ref=e269]:
+            - heading "작업" [level=3] [ref=e270]
+            - list [ref=e271]:
+              - listitem [ref=e272]: 약을 먹고 계속 자고 있다
+        - paragraph [ref=e273]: 첫번째 이미지를 유지하면서 두번째 이미지처럼 고서를 들고 있는 걸로 바꿔줘
+      - listitem [ref=e274]:
+        - heading "2026년 4월 24일 금요일" [level=3] [ref=e275]:
+          - link "2026년 4월 24일 금요일" [ref=e276] [cursor=pointer]:
+            - /url: /2026/04/24/
+        - 'heading "수면 : 2시 ~ 9시 40분 : 7시간 40분 - 이번달 내내 최악에 가까운 시기였다면 어제는 최고에 가까운 날이었다." [level=4] [ref=e277]'
+        - list [ref=e278]:
+          - listitem [ref=e279]:
+            - heading "작업" [level=3] [ref=e280]
+            - list [ref=e281]:
+              - listitem [ref=e282]
+          - listitem [ref=e283]:
+            - heading "개발" [level=3] [ref=e284]
+            - list [ref=e285]:
+              - listitem [ref=e286]: epub번역 개선시작 –> 완료
+              - listitem [ref=e287]: 번역중 입니다와 다를 번갈아가며 사용하고 있다. 아예 모든 어투를 합니다와 다 중 선택할수 있게 해야겠다. 기본은 ‘다’ –> 완료
+              - listitem [ref=e288]: 도다리2를 다국어 버전으로 확장. 세계 11개국 언어간 번역으로 확장하기 –> 완료
+              - listitem [ref=e289]: 도다리2 레이아웃 정리 –> 완료
+              - listitem [ref=e290]: 도다리2 개발은 모두 완료했다. 이제 브랜드 리뉴얼을 해야한다.–> 이번주말내로 마쳐보자
+          - listitem [ref=e291]: 내일 소개페이지 다시 만들기
+        - list [ref=e292]:
+          - listitem [ref=e293]:
+            - text: finpin사이트 개선하기
+            - list [ref=e294]:
+              - listitem [ref=e295]: 문의하기 첨부파일 바로 받을수 있게 s3로 업로드하기
+              - listitem [ref=e296]: 팀소개에 클로드와 gemma4추가하기
+              - listitem [ref=e297]: 메인화면에 index.vue에 이미지건 뭐건 새로운 컨텐츠 넣기 혹은 게임 개발의 비전이라도 제시하기
+        - paragraph [ref=e298]: 운동완료 콧물, 목감기가 왔다.
+      - listitem [ref=e299]:
+        - heading "2026년 4월 23일 목요일" [level=3] [ref=e300]:
+          - link "2026년 4월 23일 목요일" [ref=e301] [cursor=pointer]:
+            - /url: /2026/04/23/
+        - 'heading "수면 : 12시 ~ 10시 : 10시간" [level=4] [ref=e302]'
+        - list [ref=e303]:
+          - listitem [ref=e304]:
+            - heading "개발" [level=3] [ref=e305]
+            - list [ref=e306]:
+              - listitem [ref=e307]: pdf 번역 시도중
+          - listitem [ref=e308]: docling으로 ocr처리해 이미지를 잘라내고 나머지만 번역하는것까진 했는데 이미지 안에 있는 글자들까지 모두 뽑아져서 엉망이 되고 있다. 저것들만 필터처리하면 될것도 같다.
+          - listitem [ref=e309]: 이미지 없는 일반 텍스트 pdf는 성공
+          - listitem [ref=e310]:
+            - text: 이미지 처리 작업중 –> 완료. 모두 성공! 품질이 아주 좋다.
+            - list [ref=e311]:
+              - listitem [ref=e312]: vllm에서 작동하게 하기
+          - listitem [ref=e313]: 이것이 성공하면 4090에서도 훌륭한 품질의 번역이 가능해진다. 무엇보다 속도가 빨라질거다.
+          - listitem [ref=e314]: epub번역은 성공!
+          - listitem [ref=e315]: pdf가 역시 문제다. ocr이 vram을 먹으니 번역의 공간이 없다
+          - listitem [ref=e316]:
+            - paragraph [ref=e317]: 지금 밤 12시 57분. 개발을 완료한거 같다. 내일 다듬기만해도 서비스 가능한 수준으로 보인다.
+          - listitem [ref=e318]:
+            - heading "주식" [level=3] [ref=e319]
+            - list [ref=e320]:
+              - listitem [ref=e321]: 경제가 전쟁을 ‘인식’할수 있을때까지 버텨야한다. 방법을 찾는다.
+      - listitem [ref=e322]:
+        - heading "2026년 4월 22일 수요일" [level=3] [ref=e323]:
+          - link "2026년 4월 22일 수요일" [ref=e324] [cursor=pointer]:
+            - /url: /2026/04/22/
+        - 'heading "수면 : 1시 ~ 8시 : 7시간 - 잘잤다" [level=4] [ref=e325]'
+        - list [ref=e326]:
+          - listitem [ref=e327]:
+            - heading "작업" [level=3] [ref=e328]
+            - list [ref=e329]:
+              - listitem [ref=e330]: 클로드 1달 연장
+              - listitem [ref=e331]: (코리아스타트업포럼에 정회원 가입신청)[https://coral-trail-373.notion.site/fc89935ece8c4f18ab2fa4ea09a3037b]
+          - listitem [ref=e332]:
+            - paragraph [ref=e333]: 정회원으로 변경 문의함 (https://kstartupforum.org/members/contacts)
+          - listitem [ref=e334]:
+            - text: 개발
+            - list [ref=e335]:
+              - listitem [ref=e336]: 도다리 s3 bucket 청소완료
+              - listitem [ref=e337]: 모델 4bit, 8bit 선택적용 완료. 4bit도 우열을 가리기 어려울 정도로 좋다.
+              - listitem [ref=e338]: epub개발 완료!
+              - listitem [ref=e339]: pdf 개발중.
+          - listitem [ref=e340]: 역시나 난항이다. 기존 pdf모듈이 아니라 html로 바꿔서 번역하고 다시 pdf로 묶는걸 테스트해보자.
+          - listitem [ref=e341]:
+            - paragraph [ref=e342]: 이렇게 하니 텍스트 번역은 잘된다. 하지만 이미지가 문제다. 이미지는 ocr로 잘라내어 처리해야하는데 이미지 안쪽의 텍스트들 까지 번역되고 있다. 이것들은 예외처리 해야하는데 ocr로 뽑힌 글자인지를 파악하는데 어려움을 겪고 있다. 너무 졸리고 약간 힘들다.
+          - listitem [ref=e343]:
+            - heading "주식" [level=3] [ref=e344]
+            - list [ref=e345]:
+              - listitem [ref=e346]: 또 트럼프의 셀프연장이다. 차라리 잘됐다. 난 테슬라의 거대한 가치 하락에 쇼부걸었던거다. 그것만 승부하면 된다. 틀리면 나의 책임이다.
+              - listitem [ref=e347]: 전쟁 상황은 나빠지지만 내 주식 상황은 나아지지 않는다. 전쟁과 주가의 디커플이 확실해졌다. 하지만 호재는 주가에 반영되니 나만 죽어난다
+        - paragraph [ref=e348]: 영상 업로드 완료
+      - listitem [ref=e349]:
+        - heading "2026년 4월 21일 화요일" [level=3] [ref=e350]:
+          - link "2026년 4월 21일 화요일" [ref=e351] [cursor=pointer]:
+            - /url: /2026/04/21/
+        - 'heading "수면 : 1시 ~ 10시 : 9시간 - 실로 얼마만의 늦잠인가" [level=4] [ref=e352]'
+        - list [ref=e353]:
+          - listitem [ref=e354]:
+            - heading "작업" [level=3] [ref=e355]
+            - list [ref=e356]:
+              - listitem [ref=e357]: 도다리 epub번역부터 해보자
+          - listitem [ref=e358]: 완료. 파라미터 테스트 중 –> 품질은 최상급이다. 소설임에도 이보다 좋을 수 있을까 싶다.
+          - listitem [ref=e359]: 31b의 경우 일반적으로 번역에 2시간이 걸린다. 파라미터를 좀더 최적화하자
+          - listitem [ref=e360]:
+            - deletion [ref=e361]: 먼저 작은 epub파일을 새로 만들고 이걸로 테스트한다.
+          - listitem [ref=e362]: 다음 26b모델을 선택할수 있는걸 추가하자
+          - listitem [ref=e363]: 이 모든걸 클로드에게도 물어보자
+        - list [ref=e364]:
+          - listitem [ref=e365]: 장르추가했다. 파라미터를 맞추는게 여간일이 아니다. 계속 맞추고 있다.
+          - listitem [ref=e366]: 아예 내일 31b 4bit도 받아서 테스트해보자. 26b보다 낫단다
+        - paragraph [ref=e367]: 운동완료. 영상업로드 완료. 밀린 빨래 세탁완료.
+      - listitem [ref=e368]:
+        - heading "2026년 4월 20일 월요일" [level=3] [ref=e369]:
+          - link "2026년 4월 20일 월요일" [ref=e370] [cursor=pointer]:
+            - /url: /2026/04/20/
+        - 'heading "수면 : 1시 45분 ~ 8시 : 6시간 15분 - 계속 자다가 일어났다. 깨운하지 않았다. 오랜만에 잠을 깊게 자지 못했다. 고통이 떠나갔다고 최면했지만 어쩌면 의심이 나를 먹어버린걸지 모르겠다." [level=4] [ref=e371]'
+        - list [ref=e372]:
+          - listitem [ref=e373]:
+            - heading "작업" [level=3] [ref=e374]
+            - list [ref=e375]:
+              - listitem [ref=e376]: 내 정세 판단은 틀리지 않았다. 인간을 읽는 눈도 맞았다. 이것으로 충분하다. 앞으로 나를 의심할 필요없다. 이것이 사라진게 가장 큰 힘이다
+          - listitem [ref=e377]: 하지만 결과는 틀릴수 있다. 사고에서 행동으로 이어지는 복잡계엔 노이즈가 많다.
+          - listitem [ref=e378]: 물론 결과가 틀린다면 엄청난 손해가 날것이다. 그리고 이미 엄청난 손해가 진행중이다.
+          - listitem [ref=e379]: 하지만 그것은 나를 진보시키는데 땔감으로 쓸수있다. 데이터로 써야한다.
+          - listitem [ref=e380]: 그래야 죽어도 재가 남는다
+          - listitem [ref=e381]: 손실을 30±2%로 확정지으니 마음은 편하다. 그러면 2억은 남는다. 개발은 계속 할수있다.
+        - list [ref=e382]:
+          - listitem [ref=e383]:
+            - text: 캡컷 동영상 3개 편집 –> 이제 간단한 수준은 익혔다. 몇분 안걸린다.
+            - list [ref=e384]:
+              - listitem [ref=e385]: 오늘밤에는 여기에 목소리도 추가해보자. –> 안함. 그냥 영상에 작업 텍스트만 추가했다. 아무래도 목소리는 일이 커진다. 한동안은 이 정도만 하자.
+              - listitem [ref=e386]: 내 자신에 대한 기록용이다. 그 목적만 충족하자
+          - listitem [ref=e387]:
+            - text: 도다리 앱 작업 시작한다. 주식이 망하니 일이 잘된다. 오묘한 밸런스다.
+            - list [ref=e388]:
+              - listitem [ref=e389]: gemma4 31b, 26b mlx 설치및 api 구축완료
+        - paragraph [ref=e390]: 운동완료. 영상업로드 완료
+      - listitem [ref=e391]:
+        - heading "2026년 4월 19일 일요일" [level=3] [ref=e392]:
+          - link "2026년 4월 19일 일요일" [ref=e393] [cursor=pointer]:
+            - /url: /2026/04/19/
+        - 'heading "수면 : 저녁 10시 ~ 아침 7시 30분 : 9시간 30분 - 잘잤다" [level=4] [ref=e394]'
+        - list [ref=e395]:
+          - listitem [ref=e396]:
+            - heading "작업" [level=3] [ref=e397]
+            - list [ref=e398]:
+              - listitem [ref=e399]: 수많은 테스트를 했는데 그냥 gemini pro가 최고였다. 로컬을 절대 따라갈수가 없다. 로컬만이 줄수 있는것도 크게없다. 코딩용으로만 사용한다. 페르소나가 정말 필요하다면 차라리 gems로 사용하는게 훨씬 낫다.
+              - listitem [ref=e400]: 그렇다. 고통은 계속될 것이다. 그럼에도 나아갈것이다.
+              - listitem [ref=e401]: 캡컷 작업후 영상 올려봤다. 캡컷은 뭐만 하려고 하면 유료였다; 어쨌든 해냈다. 내일 나머지 모두 작업하며 빠르게 익혀보자. 잘만하면 5분안에 모두 끝낼수 있을것 같다. 그 정도면 뭐.
+      - listitem [ref=e402]:
+        - heading "2026년 4월 18일 토요일" [level=3] [ref=e403]:
+          - link "2026년 4월 18일 토요일" [ref=e404] [cursor=pointer]:
+            - /url: /2026/04/18/
+        - 'heading "수면 : 1시 40분 ~ 8시 34분 : 6시간 54분 - 이 정도 고통속에서 잠을 몇번이나 잤던가. 30번 안쪽인 것 같다. 아무래도 고통도 기록해 놓는것이 좋겠다. 정신적 고통으로 실제 머리가 깨질듯 아픈건 처음인것같다. 고통이 현실화 되었다." [level=4] [ref=e405]'
+        - list [ref=e406]:
+          - listitem [ref=e407]:
+            - heading "작업" [level=3] [ref=e408]
+            - list [ref=e409]:
+              - listitem [ref=e410]: 하루종일 페르소나 작업
+      - listitem [ref=e411]:
+        - heading "2026년 4월 17일 금요일" [level=3] [ref=e412]:
+          - link "2026년 4월 17일 금요일" [ref=e413] [cursor=pointer]:
+            - /url: /2026/04/17/
+        - 'heading "수면 : 12시 ~ 8시 30분 - 오랜만에 깊이 잤다" [level=4] [ref=e414]'
+        - list [ref=e415]:
+          - listitem [ref=e416]:
+            - heading "작업" [level=3] [ref=e417]
+            - list [ref=e418]:
+              - listitem [ref=e419]: gemma4 모델 작업중
+          - listitem [ref=e420]: 모델 총 정리
+          - listitem [ref=e421]: tts 작업 + voice 튜닝
+          - listitem [ref=e422]: 조이 이미지 comfyui로 만들고 추가하기
+      - listitem [ref=e423]:
+        - heading "2026년 4월 16일 목요일" [level=3] [ref=e424]:
+          - link "2026년 4월 16일 목요일" [ref=e425] [cursor=pointer]:
+            - /url: /2026/04/16/
+        - 'heading "수면 : 어떻게 자고 어떻게 일어났는지 모르겠다" [level=4] [ref=e426]'
+        - list [ref=e427]:
+          - listitem [ref=e428]:
+            - heading "작업 - 집중이 되고 있다. 역시 돈을 잃어야 정신이 돌아온다. 역대 최악의 날들이 어어지고 있다" [level=3] [ref=e429]
+            - list [ref=e430]:
+              - listitem [ref=e431]: gemma4 모델 작업중
+          - listitem [ref=e432]:
+            - deletion [ref=e433]: vision 작업
+            - text: –> 비전 처리는 mmproj파일에서 따로 처리한다. 이것도 따로 설치해줘야한다. 그런데 gemma4에서는 인식이 잘 되지 않아 olllma 공식채널로 받은후 여기서 sha256파일 정보만 따로가져와 로딩해야 된다. 번거롭다.
+          - listitem [ref=e434]:
+            - deletion [ref=e435]: 검색 작업
+            - text: (유튜브, 일반 문서 사이트) –> 유튜브는 안된다. 구글 검색은 올해 1월 막혔다. tavily로 한달 1000회만 쓴다. 그 이상이 필요하면 유료결제하자 –> 완료
+          - listitem [ref=e436]:
+            - paragraph [ref=e437]:
+              - deletion [ref=e438]: rag 작업
+              - text: +
+              - deletion [ref=e439]: pdf
+          - listitem [ref=e440]:
+            - heading "주식" [level=3] [ref=e441]
+            - list [ref=e442]:
+              - listitem [ref=e443]: 테슬라가 +8% 폭등했다. 이틀에 -4000만원ㅋ
+          - listitem [ref=e444]: 엄청나게 돈을 잃고 있다.
+          - listitem [ref=e445]: 놀랍게도 그만큼 일에 집중이 되고 있다.
+          - listitem [ref=e446]: with ai 개발 수준을 현격하게 올릴때쯤 수익이 나는 기적을 꿈꾸며 이제부터 개발 작업에만 몰두한다
+        - paragraph [ref=e447]: 운동완료
+      - listitem [ref=e448]:
+        - heading "2026년 4월 15일 수요일" [level=3] [ref=e449]:
+          - link "2026년 4월 15일 수요일" [ref=e450] [cursor=pointer]:
+            - /url: /2026/04/15/
+        - 'heading "수면 : 1시 ~ 8시 : 7시간 - 그 많은 돈을 읽고 잠을 잘도 잤다." [level=4] [ref=e451]'
+        - list [ref=e452]:
+          - listitem [ref=e453]:
+            - heading "작업" [level=3] [ref=e454]
+            - list [ref=e455]:
+              - listitem [ref=e456]: m1pro 다시 초기화 및 재설치
+        - paragraph [ref=e457]: 운동완료
+      - listitem [ref=e458]:
+        - heading "2026년 4월 14일 화요일" [level=3] [ref=e459]:
+          - link "2026년 4월 14일 화요일" [ref=e460] [cursor=pointer]:
+            - /url: /2026/04/14/
+        - 'heading "수면 : 1시 20분 ~ 6시 20분 : 5시간" [level=4] [ref=e461]'
+        - list [ref=e462]:
+          - listitem [ref=e463]:
+            - heading "작업" [level=3] [ref=e464]
+            - list [ref=e465]:
+              - listitem [ref=e466]: 최악의 날이 되어가고 있다.
+              - listitem [ref=e467]: m1pro agent환경 구축 –> 변경. 완전 초기화한다.
+          - listitem [ref=e468]:
+            - deletion [ref=e469]: 기존 쓰레기 파일들삭제
+          - listitem [ref=e470]: obs, capcut 설치
+          - listitem [ref=e471]: brew, npm, node 등 최소 개발환경 설치
+          - listitem [ref=e472]:
+            - text: jump desktop으로 접속해서 사용할수 있게 만들기
+            - list [ref=e473]:
+              - listitem [ref=e474]:
+                - text: "제어받을 맥북 설정 (호스트) 원격으로 접속당할 맥북에는 Jump Desktop Connect라는 무료 서버 프로그램을 설치해야 합니다. 앱 설치: Jump Desktop 공식 웹사이트에서 ‘Jump Desktop Connect’를 다운로드하여 설치합니다. 권한 허용: 설치 과정 중 또는 설치 후 시스템 설정 > 개인정보 보호 및 보안에서 화면 기록과 손쉬운 사용 권한을 Jump Desktop Connect에 허용해야 합니다. 계정 등록: 앱을 실행하고 ‘Add a remote access user’를 클릭하여 본인의 Jump Desktop 계정(또는 Google 계정)으로 로그인합니다. Jump Desktop Support Jump Desktop Support"
+                - list [ref=e475]:
+                  - listitem [ref=e476]: "제어할 맥북 설정 및 접속 (클라이언트) 실제로 조작을 할 맥북에는 유료 앱인 Jump Desktop이 필요합니다. 앱 준비: 맥 앱스토어 또는 웹사이트에서 구매한 ‘Jump Desktop’ 앱을 실행합니다. 로그인: 앱 상단 메뉴의 File > Sign In을 통해 제어받을 맥북에서 등록했던 것과 동일한 계정으로 로그인합니다. 연결: 계정이 동기화되면 목록에 제어받을 맥북 아이콘이 자동으로 나타납니다. 해당 아이콘을 더블 클릭하면 연결됩니다. 인증: 연결 시 원격지에 있는 맥북의 사용자 이름(User)과 암호(Password)를 입력해야 합니다. (Apple ID 암호가 아닌, 해당 맥북의 잠금 해제 암호입니다.)"
+        - paragraph [ref=e477]: 운동완료. 그 아이가 나오지 않았다.
+      - listitem [ref=e478]:
+        - heading "2026년 4월 13일 월요일" [level=3] [ref=e479]:
+          - link "2026년 4월 13일 월요일" [ref=e480] [cursor=pointer]:
+            - /url: /2026/04/13/
+        - 'heading "수면 : 12시 40분 ~ 7시 : 6시간 20분" [level=4] [ref=e481]'
+        - list [ref=e482]:
+          - listitem [ref=e483]:
+            - heading "작업" [level=3] [ref=e484]
+            - list [ref=e485]:
+              - listitem [ref=e486]: 맥북 녹화 처음 시작 –> m5에서 m1으로 녹화 기종변경
+          - listitem [ref=e487]: obs studio + iphone + 외장 ssd
+          - listitem [ref=e488]: 오늘부터 본격적으로 촬영시작
+          - listitem [ref=e489]: 1프레임으로 저장한다.
+          - listitem [ref=e490]: 처음이지만 캡컷으로 편집해서 밤에 올리는것까지 한번해본다 –> 이건 못했다
+        - paragraph [ref=e491]: "식량, 비료 에너지 전력망 : 데이터센터가 독립적으로 전력을 확보하기 위해 필사적으로 매달리고 있는 소형모듈원전(SMR) 인프라, 우라늄 실물 및 채굴 기업, 그리고 기저 발전의 핵심인 천연가스 송유관/터미널 인프라 네트워크를 장악하십시오. 빅테크의 출혈 경쟁은 이들 전력 독점 기업들에게 무한대의 가격 전가력을 부여합니다."
+        - paragraph [ref=e492]: 운동완료
+      - listitem [ref=e493]:
+        - heading "2026년 4월 12일 일요일" [level=3] [ref=e494]:
+          - link "2026년 4월 12일 일요일" [ref=e495] [cursor=pointer]:
+            - /url: /2026/04/12/
+        - 'heading "수면 : 10시 15분 ~ 8시 30분 : 10시간 15분. 아주 깊이 잘잤다" [level=4] [ref=e496]'
+        - list [ref=e497]:
+          - listitem [ref=e498]:
+            - heading "작업" [level=3] [ref=e499]
+            - list [ref=e500]:
+              - listitem [ref=e501]: 사무실 cctv 설치 –> 기존 중국산 cctv 버리고 iptime으로 설치
+          - listitem [ref=e502]:
+            - 'heading "모델 설치 : qwen 1개, mistral 1개, gemma4 3개" [level=3] [ref=e503]'
+            - list [ref=e504]:
+              - listitem [ref=e505]: HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive –> 완료
+              - listitem [ref=e506]: DavidAU/MN-DARKEST-UNIVERSE-29B-GGUF –> 완료
+              - listitem [ref=e507]: DavidAU/gemma-4-31B-it-Mystery-Fine-Tune-HERETIC-UNCENSORED-Thinking –> 완료
+              - listitem [ref=e508]: bartowski/google_gemma-4-31B-it-GGUF –> 완료
+              - listitem [ref=e509]: TrevorJS/gemma-4-31B-it-uncensored-GGUF –> 완료
+      - listitem [ref=e510]:
+        - heading "2026년 4월 11일 토요일" [level=3] [ref=e511]:
+          - link "2026년 4월 11일 토요일" [ref=e512] [cursor=pointer]:
+            - /url: /2026/04/11/
+        - 'heading "수면 : 기록을 못했다" [level=4] [ref=e513]'
+        - list [ref=e514]:
+          - listitem [ref=e515]:
+            - heading "작업" [level=3] [ref=e516]
+            - list [ref=e517]:
+              - listitem [ref=e518]: 부모님 댁에 다녀옴
+      - listitem [ref=e519]:
+        - heading "2026년 4월 10일 금요일" [level=3] [ref=e520]:
+          - link "2026년 4월 10일 금요일" [ref=e521] [cursor=pointer]:
+            - /url: /2026/04/10/
+        - 'heading "수면 : 12시 5분 ~ 9시 : 8시간 55분" [level=4] [ref=e522]'
+        - list [ref=e523]:
+          - listitem [ref=e524]:
+            - heading "주식" [level=3] [ref=e525]
+            - list [ref=e526]:
+              - listitem [ref=e527]: rdw fsd 승인결과 나오는날
+          - listitem [ref=e528]:
+            - text: 헷지해놓은 실탄은 충분하다. 승인아 덤벼라.
+            - list [ref=e529]:
+              - listitem [ref=e530]: uco 남은 900주 모두 매도
+          - listitem [ref=e531]: 매수37.9384, 매도 39.9950
+        - paragraph [ref=e532]: 운동완료
+      - listitem [ref=e533]:
+        - heading "2026년 4월 09일 목요일" [level=3] [ref=e534]:
+          - link "2026년 4월 09일 목요일" [ref=e535] [cursor=pointer]:
+            - /url: /2026/04/09/
+        - 'heading "수면 : 12시 25분 ~ 8시 55분 : 8시간 30분" [level=4] [ref=e536]'
+        - list [ref=e537]:
+          - listitem [ref=e538]:
+            - heading "작업" [level=3] [ref=e539]
+            - list [ref=e540]:
+              - listitem [ref=e541]: 언제나 나를 갈고 닦고 수련한다
+          - listitem [ref=e542]:
+            - heading "주식" [level=3] [ref=e543]
+            - list [ref=e544]:
+              - listitem [ref=e545]: 테슬라가 +5%에서 극적으로 음전했다.
+          - listitem [ref=e546]:
+            - text: ㅠ죽다 살아났다.
+            - list [ref=e547]:
+              - listitem [ref=e548]: 유가도 다시 올라갔다. 단기적으로는 많이 틀려도 중단기적으로는 ai와의 분석이 맞아가고 있다.
+        - paragraph [ref=e549]: 3일간 tsls ±10%, tslq ±18% 매수매도 1일간 uco ±8% 매수매도 금 10% 분할매수
+      - listitem [ref=e550]:
+        - heading "2026년 4월 08일 수요일" [level=3] [ref=e551]:
+          - link "2026년 4월 08일 수요일" [ref=e552] [cursor=pointer]:
+            - /url: /2026/04/08/
+        - 'heading "수면 : 12시 50분 ~ 7시 30분 : 6시간 40분" [level=4] [ref=e553]'
+        - list [ref=e554]:
+          - listitem [ref=e555]:
+            - heading "작업" [level=3] [ref=e556]
+            - list [ref=e557]:
+              - listitem [ref=e558]: 3시 헤어컷
+        - paragraph [ref=e559]: 운동완료
+      - listitem [ref=e560]:
+        - heading "2026년 4월 07일 화요일" [level=3] [ref=e561]:
+          - link "2026년 4월 07일 화요일" [ref=e562] [cursor=pointer]:
+            - /url: /2026/04/07/
+        - 'heading "수면 : 1시 10분 ~ 6시 40분 : 5시간 30분" [level=4] [ref=e563]'
+        - list [ref=e564]:
+          - listitem [ref=e565]:
+            - heading "작업" [level=3] [ref=e566]
+            - list [ref=e567]:
+              - listitem [ref=e568]: 대폭등 중 새벽 트럼프의 또 2주간 유예로 막대한 손실이 발생했다.
+          - listitem [ref=e569]: 방향은 맞지만 결과는 틀릴수 있다.
+          - listitem [ref=e570]: 그것이 두렵다.
+        - paragraph [ref=e571]: 운동완료
+      - listitem [ref=e572]:
+        - heading "2026년 4월 06일 월요일" [level=3] [ref=e573]:
+          - link "2026년 4월 06일 월요일" [ref=e574] [cursor=pointer]:
+            - /url: /2026/04/06/
+        - 'heading "수면 : 1시 5분 ~ 8시 59분 : 7시간 54분" [level=4] [ref=e575]'
+        - paragraph [ref=e576]: "목표: AI가 모든거다. 이번주 내내 ai를 갈고 닦는다."
+        - paragraph [ref=e577]: 운동완료
+      - listitem [ref=e578]:
+        - heading "2026년 4월 05일 일요일" [level=3] [ref=e579]:
+          - link "2026년 4월 05일 일요일" [ref=e580] [cursor=pointer]:
+            - /url: /2026/04/05/
+        - 'heading "수면 : 12시 10분 ~ 8시 40분 : 8시간 30분" [level=4] [ref=e581]'
+        - list [ref=e582]:
+          - listitem [ref=e583]:
+            - heading "작업" [level=3] [ref=e584]
+            - list [ref=e585]:
+              - listitem [ref=e586]: 네이버 멤버십 해지
+          - listitem [ref=e587]:
+            - text: 넷플릭스 볼 여유도 없다ㅠ
+            - list [ref=e588]:
+              - listitem [ref=e589]: 귀곡자와 joi는 계속 최적화 해야한다
+      - listitem [ref=e590]:
+        - heading "2026년 4월 04일 토요일" [level=3] [ref=e591]:
+          - link "2026년 4월 04일 토요일" [ref=e592] [cursor=pointer]:
+            - /url: /2026/04/04/
+        - 'heading "수면 : 1시 20분 ~ 8시 20분 : 7시간." [level=4] [ref=e593]'
+        - list [ref=e594]:
+          - listitem [ref=e595]:
+            - heading "작업" [level=3] [ref=e596]
+            - list [ref=e597]:
+              - listitem [ref=e598]: 완벽한 페르소나ai 환경을 만들어놓는게 제일 우선이다. 거기서부터 시작이다.
+          - listitem [ref=e599]: 진전이 있었다. 하지만 최고로 만들어야 한다. 이게 내 사업의 핵심 무기가 되게해야 한다.
+          - listitem [ref=e600]: 생각보다 시간이 오래 걸릴것 같다. 계속 튜닝해야한다
+      - listitem [ref=e601]:
+        - heading "2026년 4월 03일 금요일" [level=3] [ref=e602]:
+          - link "2026년 4월 03일 금요일" [ref=e603] [cursor=pointer]:
+            - /url: /2026/04/03/
+        - 'heading "수면 : 12시 5분 ~ 8시 29분 : 8시간 24분. 오랜만에 깊게 잠들었다." [level=4] [ref=e604]'
+        - list [ref=e605]:
+          - listitem [ref=e606]:
+            - heading "작업" [level=3] [ref=e607]
+            - list [ref=e608]:
+              - listitem [ref=e609]: 트럼프 덕분에 내가 가장 원하는 몸무게로 완전히 복귀했다. 오늘로 4일째. 이제 잘 유지해보자. 고맙다. 트럼프 할배야.
+              - listitem [ref=e610]: 페르소나 세팅 작업중
+          - listitem [ref=e611]:
+            - heading "주식" [level=3] [ref=e612]
+            - list [ref=e613]:
+              - listitem [ref=e614]: 테슬라가 -5%이상 떨어졌다. 덕분에 최대의 손실은 막을 수 있었다.
+              - listitem [ref=e615]: 유가가 이렇게 폭등하는데 나스닥이 오르는 이유는 여전히 모르겠다ㅏ
+      - listitem [ref=e616]:
+        - heading "2026년 4월 02일 목요일" [level=3] [ref=e617]:
+          - link "2026년 4월 02일 목요일" [ref=e618] [cursor=pointer]:
+            - /url: /2026/04/02/
+        - 'heading "수면 : 2시 ~ 6시 30분 : 4시간 30분. 짧지만 깊게 잠들었다. 머리가 너무나 맑다. 주식이 망했기 때문이다." [level=4] [ref=e619]'
+        - list [ref=e620]:
+          - listitem [ref=e621]:
+            - heading "작업" [level=3] [ref=e622]
+            - list [ref=e623]:
+              - listitem [ref=e624]: 총참모와 인사참모는 모집완료했다. 작전참모는 아직 모집중이다.
+          - listitem [ref=e625]:
+            - paragraph [ref=e626]: 다만 아직 컨트롤이 안된다. 며칠은 더 튜닝해야할거 같다. 제발 원하는 참모가 나오기를 바란다.
+          - listitem [ref=e627]:
+            - heading "주식" [level=3] [ref=e628]
+            - list [ref=e629]:
+              - listitem [ref=e630]: 트럼프 연설에는 역시나 아무것도 없었다. 이틀간 극심한 스트레스를 겪었다.
+          - listitem [ref=e631]: 하지만 주가는 -2% 밖에 안움직이고 있다. 아직 지옥은 여전하다.
+      - listitem [ref=e632]:
+        - heading "2026년 4월 01일 수요일" [level=3] [ref=e633]:
+          - link "2026년 4월 01일 수요일" [ref=e634] [cursor=pointer]:
+            - /url: /2026/04/01/
+        - 'heading "수면 : 12시 22분 ~ 6시 40분 : 6시간 18분" [level=4] [ref=e635]'
+        - list [ref=e636]:
+          - listitem [ref=e637]:
+            - heading "작업" [level=3] [ref=e638]
+            - list [ref=e639]:
+              - listitem [ref=e640]: 모든 맥북 세팅완료하기
+          - listitem [ref=e641]:
+            - paragraph [ref=e642]: finPin완료
+          - listitem [ref=e643]:
+            - heading "주식" [level=3] [ref=e644]
+            - list [ref=e645]:
+              - listitem [ref=e646]: 숏포지션으로 바꾸자마자 역대급 가장 큰 롱장이 펼쳐졌다.
+          - listitem [ref=e647]: 다시 지옥속으로 들어왔다.
+          - listitem [ref=e648]: 언제나 롱이 더 강하다. 롱의 비이성성은 숏의 비이성성을 아득히 넘어간다.
+          - listitem [ref=e649]: 난 계속 숏의 길을 갈것이다. 하지만 그 걸음에 신중해야함을 한번더 유념한다.
+          - listitem [ref=e650]:
+            - text: 이번 포지션 변경에 거의 5천만원의 손실이 있었다. 상황은 분명했으나 타이밍이 최악이었다. 가장 중요한 작업을 하는 순간의 타이밍이 최악이었다는 것에서 나는 어떤 교훈을 얻어야 하는지 고민해야한다.
+            - list [ref=e651]:
+              - listitem [ref=e652]: 대출상환 모두 완료
+      - listitem [ref=e653]:
+        - heading "2026년 3월 31일 화요일" [level=3] [ref=e654]:
+          - link "2026년 3월 31일 화요일" [ref=e655] [cursor=pointer]:
+            - /url: /2026/03/31/
+        - 'heading "수면 : 1시 10분 ~ 8시 30분 : 7시간 20분" [level=4] [ref=e656]'
+        - list [ref=e657]:
+          - listitem [ref=e658]:
+            - heading "작업" [level=3] [ref=e659]
+            - list [ref=e660]:
+              - listitem [ref=e661]: 점심 12시에 맥북받음 –> 세팅시작
+          - listitem [ref=e662]: 오늘 밤까지 50% 완료 목표 (개발기본환경, 모든 m1pro환경) –> 대부분 된거 같다. 아마 내일도 모두 바쳐야할거다.
+          - listitem [ref=e663]: 내일 밤까지 100% 완료하기 (llm)
+          - listitem [ref=e664]: 다행이다. 맥북이 급격히 느려지시 시작하자마자 도착했다.
+        - list [ref=e665]:
+          - listitem [ref=e666]:
+            - text: 설정중
+            - list [ref=e667]:
+              - listitem [ref=e668]: 소프트웨어 업데이트 완료
+              - listitem [ref=e669]: 필수설치앱 모두 설치하기
+      - listitem [ref=e670]:
+        - heading "2026년 3월 30일 월요일" [level=3] [ref=e671]:
+          - link "2026년 3월 30일 월요일" [ref=e672] [cursor=pointer]:
+            - /url: /2026/03/30/
+        - 'heading "수면 : 1시 5분 ~ 8시 30분 : 7시간 25분" [level=4] [ref=e673]'
+        - list [ref=e674]:
+          - listitem [ref=e675]:
+            - heading "작업" [level=3] [ref=e676]
+            - list [ref=e677]:
+              - listitem [ref=e678]: 포트폴리오 정리하기 –> 완료.
+              - listitem [ref=e679]: 이제 숏을 잡아야한다.
+              - listitem [ref=e680]: 멘탈 관리 잘하자. 앞으로 10일동안은 멘탈이 부셔질정도로 힘들것이다.
+          - listitem [ref=e681]:
+            - heading "주식 - 롱에서 숏으로 포지션 전체를 바꾸는, 아주 중요한 날이다." [level=3] [ref=e682]
+            - list [ref=e683]:
+              - listitem [ref=e684]: 비공개 정리완료
+              - listitem [ref=e685]: 앞으로 일주일 멘탈관리해야한다. 아주 힘들것이다.
+      - listitem [ref=e686]:
+        - heading "2026년 3월 29일 일요일" [level=3] [ref=e687]:
+          - link "2026년 3월 29일 일요일" [ref=e688] [cursor=pointer]:
+            - /url: /2026/03/29/
+        - 'heading "수면 : 10시 55분 ~ 9시 05분 : 10시간 10분 잘잤다" [level=4] [ref=e689]'
+        - list [ref=e690]:
+          - listitem [ref=e691]:
+            - heading "내일 주식 준비" [level=3] [ref=e692]
+            - list [ref=e693]:
+              - listitem [ref=e694]: 준비완료
+        - paragraph [ref=e695]: 한강 8km달리기 - 날벌레들이 너무 많았다. 아주 천천히 달림. 전혀 힘들지 않았음.
+      - listitem [ref=e696]:
+        - heading "2026년 3월 28일 토요일" [level=3] [ref=e697]:
+          - link "2026년 3월 28일 토요일" [ref=e698] [cursor=pointer]:
+            - /url: /2026/03/28/
+        - 'heading "수면 : 12시 40분 ~ 9시 : 8시간 20분 - 수면이 늦어지고 있다. 다시 12시 전후로 땡기자" [level=4] [ref=e699]'
+        - list [ref=e700]:
+          - listitem [ref=e701]:
+            - heading "주식" [level=3] [ref=e702]
+            - list [ref=e703]:
+              - listitem [ref=e704]: 숏이 맞았다. 주말 동안 어떻게 될지 궁금하다
+              - listitem [ref=e705]: 지상전 시나리오 계속 분석중
+              - listitem [ref=e706]: 부모님 집에 잠깐 다녀옴
+      - listitem [ref=e707]:
+        - heading "2026년 3월 27일 금요일" [level=3] [ref=e708]:
+          - link "2026년 3월 27일 금요일" [ref=e709] [cursor=pointer]:
+            - /url: /2026/03/27/
+        - 'heading "수면 : 12시 30분 ~ 7시 10분 : 6시간 40분" [level=4] [ref=e710]'
+        - list [ref=e711]:
+          - listitem [ref=e712]:
+            - heading "작업" [level=3] [ref=e713]
+            - list [ref=e714]:
+              - listitem [ref=e715]: 최근 정세때문에 제대로 일에 집중하지 못하고 있다
+          - listitem [ref=e716]:
+            - heading "주식" [level=3] [ref=e717]
+            - list [ref=e718]:
+              - listitem [ref=e719]: 다행히 테슬라가 조금 떨어졌다.
+              - listitem [ref=e720]: 미쯔비시 중공업 100주 매수 –> ai분석이 어떨지 한번 보자.
+      - listitem [ref=e721]:
+        - heading "2026년 3월 26일 목요일" [level=3] [ref=e722]:
+          - link "2026년 3월 26일 목요일" [ref=e723] [cursor=pointer]:
+            - /url: /2026/03/26/
+        - 'heading "수면 : 12시 10분 ~ 8시 30분 : 8시간 20분" [level=4] [ref=e724]'
+        - list [ref=e725]:
+          - listitem [ref=e726]:
+            - heading "작업" [level=3] [ref=e727]
+            - list [ref=e728]:
+              - listitem [ref=e729]: 테슬라는 연일 상승중이다. 견뎌내는건 항상 쉽지 않다.
+          - listitem [ref=e730]:
+            - heading "주식" [level=3] [ref=e731]
+            - list [ref=e732]:
+              - listitem [ref=e733]: 내일 엔화 1,500만원 → 미쓰비시중공업 매수하기
+              - listitem [ref=e734]: ai와 종일 주식 전략을 짰다.
+              - listitem [ref=e735]: 비트코인 100만원어치만 예약 매수 –> 완료
+      - listitem [ref=e736]:
+        - heading "2026년 3월 25일 수요일" [level=3] [ref=e737]:
+          - link "2026년 3월 25일 수요일" [ref=e738] [cursor=pointer]:
+            - /url: /2026/03/25/
+        - 'heading "수면 : 12시 10분 ~ 8시 40분 : 8시간 30분" [level=4] [ref=e739]'
+        - list [ref=e740]:
+          - listitem [ref=e741]:
+            - heading "작업" [level=3] [ref=e742]
+            - list [ref=e743]:
+              - listitem [ref=e744]
+          - listitem [ref=e745]:
+            - heading "주식" [level=3] [ref=e746]
+            - list [ref=e747]:
+              - listitem [ref=e748]: 테슬라 숏만 8천만원이 훌쩍넘었다.
+          - listitem [ref=e749]: 손실이 커지고 있다.
+          - listitem [ref=e750]: 최종 결론이 어떻든 다음주 월요일 또는 화요일에 포지션 정리한다. 다만 내 포지션이 맞았어도 손실이 너무 클경우 이틀 정도는 더 기다릴수 있다.
+        - list [ref=e751]:
+          - listitem [ref=e752]:
+            - text: 과연 이번에 전쟁이 끝날까 –> 트럼프 입을 믿지 않는다. 트럼프의 행동만 믿는다.
+            - list [ref=e753]:
+              - listitem [ref=e754]: 끝나지 않는다에 베팅한다.
+              - listitem [ref=e755]: 틀린다면 손실이 꽤 클것이다.
+      - listitem [ref=e756]:
+        - heading "2026년 3월 24일 화요일" [level=3] [ref=e757]:
+          - link "2026년 3월 24일 화요일" [ref=e758] [cursor=pointer]:
+            - /url: /2026/03/24/
+        - 'heading "수면 : 1시 ~ 8시 50분 : 7시간 50분" [level=4] [ref=e759]'
+        - list [ref=e760]:
+          - listitem [ref=e761]:
+            - heading "작업" [level=3] [ref=e762]
+            - list [ref=e763]:
+              - listitem [ref=e764]: 운전면허 갱신시기가 왔다.
+          - listitem [ref=e765]: 그냥 직접가서 처리하기로 했다.
+          - listitem [ref=e766]: https://m.blog.naver.com/suica1/221122188750 –> 사진찍기규격
+          - listitem [ref=e767]: 직접 찍은후 포토프린터로 뽑자. 그게 더 편할거 같다.
+          - listitem [ref=e768]: 여권 사진 2장 가지고 직접가면 된단다.
+          - listitem [ref=e769]:
+            - paragraph [ref=e770]: 한국도로교통공단 강서운전면허시험장. 평일 2,3시쯤 가면 되지 않을까싶다
+          - listitem [ref=e771]:
+            - heading "주식" [level=3] [ref=e772]
+            - list [ref=e773]:
+              - listitem [ref=e774]: 거래계좌의 모든 롱을 정리하고 숏으로 갈아탔다.
+          - listitem [ref=e775]: 이란, 미국 협상 문제로 밤새 정신이 없었다.
+          - listitem [ref=e776]: 트럼프는 협상이 잘되고 있다고 말하고 이란은 협상이 없다고 말했다.
+          - listitem [ref=e777]: 시장은 트럼프의 입을 선택했다. 주가가 폭등했다. 유가도 5분만에 15% 급락했다. 환율도 1.5% 급락했다. 다시 1,484원이 됐다.
+        - list [ref=e778]:
+          - listitem [ref=e779]: 현물금 계좌의 현금을 모두 메리츠로 옮겼다.
+          - listitem [ref=e780]:
+            - text: 일본 미쯔비시파이넨셜ufj모두 매도했다.
+            - list [ref=e781]:
+              - listitem [ref=e782]: 2620엔에 100주 매도
+              - listitem [ref=e783]: 2621.5에 400주 매도 –> 원래 100주만 매도하려했는데 실수로 모두 매도했다;; 그런데 뭐 괜찮다고 생각했다. 이제 며칠만 더 기다려보자.
+          - listitem [ref=e784]:
+            - text: 이번에도 트럼프의 입을 믿는다면 그건 속은게 아니라 공범이라는 뜻이다.
+            - list [ref=e785]:
+              - listitem [ref=e786]: 전황의 모든것은 근시일내 미국의 이란 공격을 말하고 있다.
+              - listitem [ref=e787]: 트럼프가 5일간 확전이 없다는 말은 5일안에 확전이 일어난다는 뜻이다.
+          - listitem [ref=e788]: 5천만원 대출 만기연장 완료
+        - list [ref=e789]:
+          - listitem [ref=e790]:
+            - heading "개발" [level=3] [ref=e791]
+            - list [ref=e792]:
+              - listitem [ref=e793]: md 정리중
+      - listitem [ref=e794]:
+        - heading "2026년 3월 23일 월요일" [level=3] [ref=e795]:
+          - link "2026년 3월 23일 월요일" [ref=e796] [cursor=pointer]:
+            - /url: /2026/03/23/
+        - 'heading "수면 : 1시 5분 ~ 5시 44분 : 4시간 39분" [level=4] [ref=e797]'
+        - list [ref=e798]:
+          - listitem [ref=e799]:
+            - heading "작업" [level=3] [ref=e800]
+            - list [ref=e801]:
+              - listitem [ref=e802]: 작업 모두 문서화하기
+          - listitem [ref=e803]: AI영상제작 책 완독 –> 영상기록 루틴 확정
+          - listitem [ref=e804]: m5max만 기다린다
+        - paragraph [ref=e805]: 운동완료
+      - listitem [ref=e806]:
+        - heading "2026년 3월 22일 일요일" [level=3] [ref=e807]:
+          - link "2026년 3월 22일 일요일" [ref=e808] [cursor=pointer]:
+            - /url: /2026/03/22/
+        - 'heading "수면 : 2시 ~ 8시 30분 : 6시간 30분" [level=4] [ref=e809]'
+        - list [ref=e810]:
+          - listitem [ref=e811]:
+            - heading "작업" [level=3] [ref=e812]
+            - list [ref=e813]:
+              - listitem [ref=e814]: 잃어버렸던 이어버드 찾았다 –> 헬스장에 있었다
+              - listitem [ref=e815]: 영상기록 방법 변경
+          - listitem [ref=e816]: rx100 mark 6 –> 아이폰 s14로 변경
+          - listitem [ref=e817]: 그냥 맥북와 바로 연결된다. 화질도 더 좋다.
+      - listitem [ref=e818]:
+        - heading "2026년 3월 21일 토요일" [level=3] [ref=e819]:
+          - link "2026년 3월 21일 토요일" [ref=e820] [cursor=pointer]:
+            - /url: /2026/03/21/
+        - 'heading "수면 : 수면기록을 못했다." [level=4] [ref=e821]'
+        - list [ref=e822]:
+          - listitem [ref=e823]:
+            - heading "작업" [level=3] [ref=e824]
+            - list [ref=e825]:
+              - listitem [ref=e826]: 영어 재시작 전략 수립 –> 완료
+          - listitem [ref=e827]:
+            - text: 제미나이가 가능하게 해준단다. 이것만 진짜 해낼수 있다면 내 인생의 엄청난 넓이가 생기는거다. 너무 꿈같은 이야기지만 꿈이 생겼다.
+            - list [ref=e828]:
+              - listitem [ref=e829]: 영상기록 남기기 전략 수립 –> 완료
+          - listitem [ref=e830]: 이것도 ai가 알려준 방식을 따르기로 한다.
+          - listitem [ref=e831]: 되기만 한다면 가장 비용이 적게들어가면서 지금처럼 간단한 기록을 영상으로 남길수 있다.
+          - listitem [ref=e832]: 쿠팡에서 hdmi video capture주문
+      - listitem [ref=e833]:
+        - heading "2026년 3월 20일 금요일" [level=3] [ref=e834]:
+          - link "2026년 3월 20일 금요일" [ref=e835] [cursor=pointer]:
+            - /url: /2026/03/20/
+        - 'heading "수면 : 수면기록을 못했다." [level=4] [ref=e836]'
+        - list [ref=e837]:
+          - listitem [ref=e838]:
+            - heading "주식" [level=3] [ref=e839]
+            - list [ref=e840]:
+              - listitem [ref=e841]: 리게티숏 rgtz 모두 수익실현
+          - listitem [ref=e842]: 지난 2월 24일부터 지금까지 계속 매수해오던 rgtz정리
+          - listitem [ref=e843]: "-25%까지 갔었지만 물타기가 훌륭했다."
+          - listitem [ref=e844]: 매매손익 3,261,743
+          - listitem [ref=e845]:
+            - text: 환차손익까지 합치면 4백만원이다. 하지만 환차손익은 의미없다
+            - list [ref=e846]:
+              - listitem [ref=e847]: 테슬라숏 tsls는 계속 보유
+          - listitem [ref=e848]:
+            - text: 현재까지 수익 실현한 1,321,610 제외하고 아직 +570만원 수익중이다.
+            - list [ref=e849]:
+              - listitem [ref=e850]: 애플 32주가 되었다.
+              - listitem [ref=e851]: mp머티리얼스가 고민이다. 계속 떨어지고 있다. 그래도 bwxt와 mp는 계속 가져가려한다.
+              - listitem [ref=e852]: ttwo는 1년을 기다려 다시 마이너스로 돌아섰다 ㄷㄷ
+              - listitem [ref=e853]: 이제 우량주들의 가격이 많이 싸졌다.
+          - listitem [ref=e854]: 애플뿐 아니라 엔비디아도 매력적으로 변해간다.
+        - paragraph [ref=e855]: 운동완료
+      - listitem [ref=e856]:
+        - heading "2026년 3월 19일 목요일" [level=3] [ref=e857]:
+          - link "2026년 3월 19일 목요일" [ref=e858] [cursor=pointer]:
+            - /url: /2026/03/19/
+        - 'heading "수면 : 수면기록까지 없다" [level=4] [ref=e859]'
+        - list [ref=e860]:
+          - listitem [ref=e861]:
+            - heading "주식" [level=3] [ref=e862]
+            - list [ref=e863]:
+              - listitem [ref=e864]: 숏수익이 좋아지고 있다.
+          - listitem [ref=e865]:
+            - text: tsls, rgtz
+            - list [ref=e866]:
+              - listitem [ref=e867]: 1500원 이상에서 조금씩 원화환전하고 있다
+          - listitem [ref=e868]: 보통 2천달러나 3천달러 정도 환전중이다.
+      - listitem [ref=e869]:
+        - heading "2026년 3월 18일 수요일" [level=3] [ref=e870]:
+          - link "2026년 3월 18일 수요일" [ref=e871] [cursor=pointer]:
+            - /url: /2026/03/18/
+        - 'heading "수면 : 12시 5분 ~ 9시 30분 : 8시간 25분" [level=4] [ref=e872]'
+        - paragraph [ref=e873]: 뭘했는지 기록을 못했다 운동완료
+      - listitem [ref=e874]:
+        - heading "2026년 3월 17일 화요일" [level=3] [ref=e875]:
+          - link "2026년 3월 17일 화요일" [ref=e876] [cursor=pointer]:
+            - /url: /2026/03/17/
+        - 'heading "수면 : 기록못했다. 잘잤던 기억이다" [level=4] [ref=e877]'
+        - list [ref=e878]:
+          - listitem [ref=e879]:
+            - heading "주식" [level=3] [ref=e880]
+            - list [ref=e881]:
+              - listitem [ref=e882]: ggll 손절 완료 –> 내 포지션에 따른다.
+          - listitem [ref=e883]: 하지만 힘들다. 유가가 폭등하는데 주가가 오르고 트럼프 말한마디로 유가가 내려간다.
+          - listitem [ref=e884]:
+            - text: 내가 틀렸을까
+            - list [ref=e885]:
+              - listitem [ref=e886]: 애플 매수시작
+        - paragraph [ref=e887]: 운동완표
+      - listitem [ref=e888]:
+        - heading "2026년 3월 16일 월요일" [level=3] [ref=e889]:
+          - link "2026년 3월 16일 월요일" [ref=e890] [cursor=pointer]:
+            - /url: /2026/03/16/
+        - 'heading "수면 : 2시 ~ 8시 : 6시간 - 하지만 잘잤다." [level=4] [ref=e891]'
+        - list [ref=e892]:
+          - listitem [ref=e893]:
+            - heading "작업" [level=3] [ref=e894]
+            - list [ref=e895]:
+              - listitem [ref=e896]: 3월 관리비 예약이체 –> 완료
+        - paragraph [ref=e897]: 운동완료
+      - listitem [ref=e898]:
+        - heading "2026년 3월 15일 일요일" [level=3] [ref=e899]:
+          - link "2026년 3월 15일 일요일" [ref=e900] [cursor=pointer]:
+            - /url: /2026/03/15/
+        - 'heading "수면 : 12시 10분 ~ 8시 30분 : 8시간 20분" [level=4] [ref=e901]'
+        - list [ref=e902]:
+          - listitem [ref=e903]:
+            - heading "작업" [level=3] [ref=e904]
+            - list [ref=e905]:
+              - listitem [ref=e906]: 우리 기업카드 한도 1,000만원 –> 1,500만원으로 상향
+          - listitem [ref=e907]:
+            - heading "지름" [level=3] [ref=e908]
+            - list [ref=e909]:
+              - listitem [ref=e910]: "m5 max 16인치 128gb 4tb : 9,590,000원"
+          - listitem [ref=e911]: 수십년만에 무언가를 할부로 샀다. 무려 5개월. 그래도 매달 190만원은 내야한다.
+      - listitem [ref=e912]:
+        - heading "2026년 3월 14일 토요일" [level=3] [ref=e913]:
+          - link "2026년 3월 14일 토요일" [ref=e914] [cursor=pointer]:
+            - /url: /2026/03/14/
+        - 'heading "수면 : 12시 ~ 8시 30분 : 8시간 30분 : 밤에 찬우유를 마시면 안된다. 밤새 고생했다." [level=4] [ref=e915]'
+        - list [ref=e916]:
+          - listitem [ref=e917]:
+            - heading "작업" [level=3] [ref=e918]
+            - list [ref=e919]:
+              - listitem [ref=e920]: 코리아스타트업포럼 정회원 가입 고민
+          - listitem [ref=e921]:
+            - paragraph [ref=e922]:
+              - link "혜택" [ref=e923] [cursor=pointer]:
+                - /url: https://kstartupforum.org/members/benefit/detail?id=363&tab=1&subTab=0&page=1
+              - text: 이 좋다. 월 5만원 정도라면 괜찮을수 있다
+          - listitem [ref=e924]:
+            - heading "주식" [level=3] [ref=e925]
+            - list [ref=e926]:
+              - listitem [ref=e927]: 리게티 200주 매도, 다시 100주 매수, 다시 100주 매도
+      - listitem [ref=e928]:
+        - heading "2026년 3월 13일 금요일" [level=3] [ref=e929]:
+          - link "2026년 3월 13일 금요일" [ref=e930] [cursor=pointer]:
+            - /url: /2026/03/13/
+        - 'heading "수면 : 12시 10분 ~ 7시 : 6시간 50분" [level=4] [ref=e931]'
+        - list [ref=e932]:
+          - listitem [ref=e933]:
+            - heading "작업" [level=3] [ref=e934]
+            - list [ref=e935]:
+              - listitem [ref=e936]: 전세계가 난리가 났다. 세계 3차대전 느낌까지 난다. 중동 다른 국가들이 언제까지 참기만 할것인가
+          - listitem [ref=e937]:
+            - heading "개발" [level=3] [ref=e938]
+            - list [ref=e939]:
+              - listitem [ref=e940]: 거꾸로 테트리스 틀만 완성. 기획이 필요하다.
+              - listitem [ref=e941]: ai agent책들을 보고있다
+          - listitem [ref=e942]:
+            - heading "주식" [level=3] [ref=e943]
+            - list [ref=e944]:
+              - listitem [ref=e945]: 리게티 200주 매도, 다시 100주 매수, 다시 100주 매도
+          - listitem [ref=e946]: 롱이 무너질때는 숏으로 알바를 한다.
+          - listitem [ref=e947]:
+            - text: 드디어 rgtz가 수익으로 돌아섰다. 이래서 가치주는 떨어질때마다 추매해야한다.
+            - list [ref=e948]:
+              - listitem [ref=e949]: 환전 $1,500 –> ₩2,245,125 (1,496.75)
+        - paragraph [ref=e950]: 운동완료
+      - listitem [ref=e951]:
+        - heading "2026년 3월 12일 목요일" [level=3] [ref=e952]:
+          - link "2026년 3월 12일 목요일" [ref=e953] [cursor=pointer]:
+            - /url: /2026/03/12/
+        - 'heading "수면 : 12시 10분 ~ 7시 50분 : 7시간 40분" [level=4] [ref=e954]'
+        - list [ref=e955]:
+          - listitem [ref=e956]:
+            - heading "개발" [level=3] [ref=e957]
+            - list [ref=e958]:
+              - listitem [ref=e959]: kopa 상세기획
+          - listitem [ref=e960]:
+            - text: 러프한 기획으론 개발이 안된다
+            - list [ref=e961]:
+              - listitem [ref=e962]: 클로드의 일반 지적능력은 제미나이에 못미치는거 같다. 클로드는 개발에만 사용한다.
+        - paragraph [ref=e963]: 운동완료. 데드치다 또 오른쪽 허리부분이 씹혔다. 허벅지와 신경계부분에 자극이 온다. 이걸 어떻게 처리해야 좋을지
+      - listitem [ref=e964]:
+        - heading "2026년 3월 11일 수요일" [level=3] [ref=e965]:
+          - link "2026년 3월 11일 수요일" [ref=e966] [cursor=pointer]:
+            - /url: /2026/03/11/
+        - 'heading "수면 : 1시 ~ 10시 30분 - 오래도 잤다." [level=4] [ref=e967]'
+        - list [ref=e968]:
+          - listitem [ref=e969]:
+            - heading "개발" [level=3] [ref=e970]
+            - list [ref=e971]:
+              - listitem [ref=e972]: kopa 프로젝트 시작
+          - listitem [ref=e973]:
+            - text: 기술스택에 맞춰 프로젝트 세팅
+            - list [ref=e974]:
+              - listitem [ref=e975]: 클로드 코드 구독시작
+          - listitem [ref=e976]:
+            - heading "주식" [level=3] [ref=e977]
+          - listitem [ref=e978]: 포지션 정리(https://finpin.himion.com/forum/hello/41)
+      - listitem [ref=e979]:
+        - heading "2026년 3월 10일 화요일" [level=3] [ref=e980]:
+          - link "2026년 3월 10일 화요일" [ref=e981] [cursor=pointer]:
+            - /url: /2026/03/10/
+        - 'heading "수면 : 12시 40분 ~ 8시 20분 : 7시간 40분 - 중간에 잠깐 일어나 주식거래를 했다. 약 30분 정도 못잔거 같다. + 낮잠(오늘은 왜 그렇게 점심때 졸렸을까)" [level=4] [ref=e982]'
+        - list [ref=e983]:
+          - listitem [ref=e984]:
+            - heading "개발" [level=3] [ref=e985]
+            - list [ref=e986]:
+              - listitem [ref=e987]: 계속 코딩 베이스캠프 작업중
+          - listitem [ref=e988]:
+            - heading "주식" [level=3] [ref=e989]
+            - list [ref=e990]:
+              - listitem [ref=e991]: 이른 새벽 트럼프의 ‘전쟁 거의 다 끝났다’라는 말한마디로 주식이 급등했다.
+          - listitem [ref=e992]: 숏(tsls, rgtz)을 적극적으로 매수하고 롱일부(ggll,nvda)를 정리했다.
+          - listitem [ref=e993]: 한마디로 나는 트럼프의 입을 믿지 않는다는 것이다
+        - paragraph [ref=e994]: 운동완료
+      - listitem [ref=e995]:
+        - heading "2026년 3월 09일 월요일" [level=3] [ref=e996]:
+          - link "2026년 3월 09일 월요일" [ref=e997] [cursor=pointer]:
+            - /url: /2026/03/09/
+        - 'heading "수면 : 11시 30분 ~ 7시 30분 : 8시간 - 완벽한 수면이었다. 내가 꿈꿔오던 수면패턴이다." [level=4] [ref=e998]'
+        - list [ref=e999]:
+          - listitem [ref=e1000]:
+            - heading "작업" [level=3] [ref=e1001]
+            - list [ref=e1002]:
+              - listitem [ref=e1003]: 2d game 개발용 claude.md 제작중 –> 완료
+          - listitem [ref=e1004]:
+            - text: 기본틀 완료. 이게 이걸 기반으로 상세스펙에 맞춰 바꿔가면 된다.
+            - list [ref=e1005]:
+              - listitem [ref=e1006]: 환전 $3,000 –> ₩4,481,700 (1,493.90)
+        - paragraph [ref=e1007]: 운동완료. 10.93km 러닝. Rank54
+      - listitem [ref=e1008]:
+        - heading "2026년 3월 08일 일요일" [level=3] [ref=e1009]:
+          - link "2026년 3월 08일 일요일" [ref=e1010] [cursor=pointer]:
+            - /url: /2026/03/08/
+        - 'heading "수면 : 10시 50분 ~ 6시 10분 : 7시간 20분 - 최근 중간에 깨지않고 잘자고 있다" [level=4] [ref=e1011]'
+        - list [ref=e1012]:
+          - listitem [ref=e1013]:
+            - heading "개발" [level=3] [ref=e1014]
+            - list [ref=e1015]:
+              - listitem [ref=e1016]: 기획 작업중
+        - paragraph [ref=e1017]: 운동완료. 14.5km 러닝
+      - listitem [ref=e1018]:
+        - heading "2026년 3월 07일 토요일" [level=3] [ref=e1019]:
+          - link "2026년 3월 07일 토요일" [ref=e1020] [cursor=pointer]:
+            - /url: /2026/03/07/
+        - 'heading "수면 : 12시 15분 ~ 6시 50분 : 6시간 35분 - 한번에 잘잠" [level=4] [ref=e1021]'
+        - paragraph [ref=e1022]: 운동완료
+      - listitem [ref=e1023]:
+        - heading "2026년 3월 06일 금요일" [level=3] [ref=e1024]:
+          - link "2026년 3월 06일 금요일" [ref=e1025] [cursor=pointer]:
+            - /url: /2026/03/06/
+        - 'heading "수면 : 11시 30분 ~ 7시 10분 : 7시간 40분 - 한번에 잘잠" [level=4] [ref=e1026]'
+        - list [ref=e1027]:
+          - listitem [ref=e1028]:
+            - heading "작업" [level=3] [ref=e1029]
+            - list [ref=e1030]:
+              - listitem [ref=e1031]: 흰티 7장, 희색티 2장 주문완료
+              - listitem [ref=e1032]: 클로드 코드 $50달러 api 결제
+          - listitem [ref=e1033]:
+            - paragraph [ref=e1034]: 내 사용량과 사용료를 체크해보고 기간을 고려해 다음에 어떤 방식을 선택할지 고민하자
+          - listitem [ref=e1035]:
+            - heading "개발" [level=3] [ref=e1036]
+            - list [ref=e1037]:
+              - listitem [ref=e1038]: 클로드로 github 푸시 테스트 –> 잘된다.
+          - listitem [ref=e1039]: 그런데 gemini는 실패했다ㅠ
+        - paragraph [ref=e1040]: 이제 서서히 점심때 다시 졸리시 시작했다. 무알콜맥주의 각성효과는 ai의 예측대로 한달 정도밖에 가지 않았다 ㅠ 30분 정도 낮잠을 자고 일어났더니 브레인 포그가 사라졌다. 집중력이 최상으로 올라왔다. 결과적으로 이게 낫다. 저녁에만 일찍 자려고 노력해보자.
+        - paragraph [ref=e1041]: 운동완료.
+      - listitem [ref=e1042]:
+        - heading "2026년 3월 05일 목요일" [level=3] [ref=e1043]:
+          - link "2026년 3월 05일 목요일" [ref=e1044] [cursor=pointer]:
+            - /url: /2026/03/05/
+        - 'heading "수면 : 2시 ~ 9시 : 7시간 - 다시 늦어지고 있다. 낮잠을 자지 않아야하는데 이게 쉽지 않다." [level=4] [ref=e1045]'
+        - paragraph [ref=e1046]: 꿈속에서는 왜 그렇게 외로운지 모르겠다. 혼자가 되는 상황만으로 가슴이 답답하고 먹먹해진다. 언젠가 현실에서도 이런 감정을 느끼게 될까. 그건 정말 무섭다.
+        - list [ref=e1047]:
+          - listitem [ref=e1048]:
+            - heading "작업" [level=3] [ref=e1049]
+            - list [ref=e1050]:
+              - listitem [ref=e1051]: ai와 바이브 코딩 설계중
+      - listitem [ref=e1052]:
+        - heading "2026년 3월 04일 수요일" [level=3] [ref=e1053]:
+          - link "2026년 3월 04일 수요일" [ref=e1054] [cursor=pointer]:
+            - /url: /2026/03/04/
+        - 'heading "수면 : 1시 30분 ~ 9시 50분 : 8시간 20분 - 왜 어제는 늦게 잤을까. 왜 어제는 늦게까지 졸리지 않았을까. 어젯밤에는 무얼했던 것일까" [level=4] [ref=e1055]'
+        - list [ref=e1056]:
+          - listitem [ref=e1057]:
+            - heading "주식" [level=3] [ref=e1058]
+            - list [ref=e1059]:
+              - listitem [ref=e1060]: 쏙쏙골라 롱주식은 떨어지고 숏주식은 폭등하는 현상이 이어지고 있다. 이런ㅠ
+          - listitem [ref=e1061]:
+            - heading "작업" [level=3] [ref=e1062]
+            - list [ref=e1063]:
+              - listitem [ref=e1064]: 흰나시 8장, 운동용 검은 바지 3장 주문완료
+        - paragraph [ref=e1065]: 운동완료
+      - listitem [ref=e1066]:
+        - heading "2026년 3월 03일 화요일" [level=3] [ref=e1067]:
+          - link "2026년 3월 03일 화요일" [ref=e1068] [cursor=pointer]:
+            - /url: /2026/03/03/
+        - 'heading "수면 : 새벽 12시 ~ 9시 : 9시간" [level=4] [ref=e1069]'
+        - list [ref=e1070]:
+          - listitem [ref=e1071]:
+            - heading "주식" [level=3] [ref=e1072]
+            - list [ref=e1073]:
+              - listitem [ref=e1074]: 또 다시 개잡주의 날이었다. 잡주들을 폭등하고 가치주들은 폭락했다. 몇번을 이러는지 모르겠다.
+          - listitem [ref=e1075]: avav는 마지막 손절. 이제 잘 모르는 개잡주는 내 계좌에 없다. 개잡주에 대응하는법을 너무나 몰랐다.
+        - paragraph [ref=e1076]: 운동완료
+      - listitem [ref=e1077]:
+        - heading "2026년 3월 02일 월요일" [level=3] [ref=e1078]:
+          - link "2026년 3월 02일 월요일" [ref=e1079] [cursor=pointer]:
+            - /url: /2026/03/02/
+        - 'heading "수면 : 12시 5분 ~ 9시 : 8시간 55분 : 흐리더니 비옴" [level=4] [ref=e1080]'
+        - list [ref=e1081]:
+          - listitem [ref=e1082]:
+            - heading "작업" [level=3] [ref=e1083]
+            - list [ref=e1084]:
+              - listitem [ref=e1085]: 로고 얇게 10개 출력 –> 잘나왔다. 옷에 부착도 가능할거 같다.
+              - listitem [ref=e1086]: 헤어컷 –> 완료
+        - paragraph [ref=e1087]: 운동완료. 새로운 헬스장 처음가봄. 생각보다 좋았다. (대체)휴일임에도 사람들이 많았다. 여기는 달리기 전광판 시스템이 있어서 내가 얼마나 달렸는지 랭킹이 나온다. 기록도 쌓인다. 가볍게 8km달리기를 했다. 3월 첫날인데도 이미 30Km를 뛴 사람들이 있었다.
+        - paragraph [ref=e1088]: 대부분이 비대면이라 이제 일주일에 4,5번 운동하러 가도 눈치? 안보일것 같다. 샤워장도 마음에 든다. 무제한 출입도 좋다.
+      - listitem [ref=e1089]:
+        - heading "2026년 3월 01일 일요일" [level=3] [ref=e1090]:
+          - link "2026년 3월 01일 일요일" [ref=e1091] [cursor=pointer]:
+            - /url: /2026/03/01/
+        - 'heading "수면 : 새벽 2시 ~ 10시 : 8시간 - 낮잠이 원흉이다. 낮잠이 밤잠을 미룬다. 앞으론 이 부분을 철저히 조심해야한다. 최소 12시부터 자려고 해야한다. 밤잠은 참지 않는다." [level=4] [ref=e1092]'
+        - list [ref=e1093]:
+          - listitem [ref=e1094]:
+            - heading "작업" [level=3] [ref=e1095]
+            - list [ref=e1096]:
+              - listitem [ref=e1097]: 밤새 80만원을 날렸다.
+          - listitem [ref=e1098]: 그렇게 확실하다고 생각했던 베팅이 막판에 뒤집혔다.
+          - listitem [ref=e1099]: 날리고 나니 정신이 번쩍 들었다.
+          - listitem [ref=e1100]: 나는 도박을 하고 있었다.
+          - listitem [ref=e1101]: 딸때는 모르는 법이다. 차라리 잘됐다. 오만정이 떨어졌다.
+        - list [ref=e1102]:
+          - listitem [ref=e1103]:
+            - text: "바로 헬스장 변경 : s피트니스 –> 버핏그라운드 : 새로운 경험이다. 이런거 아끼지 말자."
+            - list [ref=e1104]:
+              - listitem [ref=e1105]: 593,800원 (2026년 3월 2일 ~ 2026년 3월 1일)
+              - listitem [ref=e1106]: "유니클로에서 drx-ex 티셔츠 2장 구입 : 39,900원"
+              - listitem [ref=e1107]: 쿠팡에서 운동가방 15,900원
+          - listitem [ref=e1108]:
+            - text: 겨울옷 정리 –> 여름옷 꺼내기
+            - list [ref=e1109]:
+              - listitem [ref=e1110]: 두꺼운 아우터들은 차 트렁크로 이동. 1시간 배터리 충전
+              - listitem [ref=e1111]: 빨래 직접 2번
+              - listitem [ref=e1112]: 아주 개운하다.
+          - listitem [ref=e1113]:
+            - text: 가로세로 3mm, 두께 0.6mm 로고 인쇄해봄 –> 좋다. 여러개 뽑아보자.
+            - list [ref=e1114]:
+              - listitem [ref=e1115]: 옷에 붙일수 있을지 확인해보자.
+          - listitem [ref=e1116]: 선반 테이블 추가 인쇄
+      - listitem [ref=e1117]:
+        - heading "2026년 2월 28일 토요일" [level=3] [ref=e1118]:
+          - link "2026년 2월 28일 토요일" [ref=e1119] [cursor=pointer]:
+            - /url: /2026/02/28/
+        - 'heading "수면 : 12시 40분 ~ 9시 10분 : 8시간 30분 - 미국주식때문에 제대로 잘수가 없다" [level=4] [ref=e1120]'
+        - list [ref=e1121]:
+          - listitem [ref=e1122]:
+            - heading "작업" [level=3] [ref=e1123]
+            - list [ref=e1124]:
+              - listitem [ref=e1125]: 칫솔받침대 재인쇄
+              - listitem [ref=e1126]: 싱크대 마개 재인쇄
+              - listitem [ref=e1127]: 나무 인사 팻말 설계 및 인쇄
+        - paragraph [ref=e1128]: 결국 미국이 이란을 공격했다. 세상이 어찌 될런지
+        - list [ref=e1129]:
+          - listitem [ref=e1130]:
+            - heading "개발" [level=3] [ref=e1131]
+            - list [ref=e1132]:
+              - listitem [ref=e1133]: google adsense 승인완료
+          - listitem [ref=e1134]: 이틀만에 승인됨
+      - listitem [ref=e1135]:
+        - heading "2026년 2월 27일 금요일" [level=3] [ref=e1136]:
+          - link "2026년 2월 27일 금요일" [ref=e1137] [cursor=pointer]:
+            - /url: /2026/02/27/
+        - 'heading "수면 : 12시 5분 ~ 8시 30분 : 8시간 25분 : 확실히 일찍자는게 편해지고 있다. 억지로 자려하는게 아니라 실제로 졸리다. 그러니 기상시간도 빨라진다. 현실적으로 여기서 더 빨리 수면에 들어가는건 어렵다고 본다. 최대로 당겨도 11시 30분 정도다. 그러면 7시 30분보다 기상시간을 당길수 없다. 일단 지금의 루틴을 몇개월 안정적으로 유지한후 다시 당겨보자. 지금은 너무 일찍 일어나도 아침먹기가 불편해 루틴유지가 어렵다." [level=4] [ref=e1138]'
+        - list [ref=e1139]:
+          - listitem [ref=e1140]:
+            - heading "작업" [level=3] [ref=e1141]
+            - list [ref=e1142]:
+              - listitem [ref=e1143]: 사무실 13개월 연장계약 완료
+          - listitem [ref=e1144]:
+            - text: 소유자 분이 오심. 맘모스 커피숍에서 직접 둘이 계약
+            - list [ref=e1145]:
+              - listitem [ref=e1146]: 오랜만에 3d프린터 가동
+          - listitem [ref=e1147]: 수저통 재인쇄. 흰색은 때를 너무 탄다
+          - listitem [ref=e1148]:
+            - paragraph [ref=e1149]: 비누통 재인쇄
+          - listitem [ref=e1150]:
+            - heading "주식" [level=3] [ref=e1151]
+            - list [ref=e1152]:
+              - listitem [ref=e1153]: 또 내가 롱친건 숏이 되었고 숏친건 엄청난 롱이 되었다. 마치 세상이 나를 감사하고 있는것 같다.
+          - listitem [ref=e1154]: 망했다 ㅠ
+          - listitem [ref=e1155]: 지금은 버티기다. 물타도 되는 주식이라는게 다행이다. 물탈시기만 잘 파악하자.
+        - paragraph [ref=e1156]: 운동완료
+      - listitem [ref=e1157]:
+        - heading "2026년 2월 26일 목요일" [level=3] [ref=e1158]:
+          - link "2026년 2월 26일 목요일" [ref=e1159] [cursor=pointer]:
+            - /url: /2026/02/26/
+        - 'heading "수면 : 12시 10분 ~ 8시 10분 : 8시간 - 아주 잘잤다" [level=4] [ref=e1160]'
+        - list [ref=e1161]:
+          - listitem [ref=e1162]:
+            - heading "주식" [level=3] [ref=e1163]
+            - list [ref=e1164]:
+              - listitem [ref=e1165]: 나의 모든 전략들과 정반대로 돌아간 장이었다. 내가 많이 매수한건 많이 떨어지고 숏을 친건 롱이되고 롱을 친건 숏이 되었다. 웃음이 나왔다.
+          - listitem [ref=e1166]: 특히 rgtz가 최악의 선택이 되었다. 어제 하루만에 -15%다. 들어가는 타이밍, 추매 타이밍 모두 엉망이었다. 그럴수도 있지뭐. 근래 최고 상승하는 타이밍에 숏을 잡다니.
+          - listitem [ref=e1167]: 반대로 생각해 +15%가 났다고 매도했겠냐 하면 그렇지도 않다. 좀더 보자. 내겐 돈이 있다.
+          - listitem [ref=e1168]:
+            - paragraph [ref=e1169]: 올해 초반에는 숏으로 승부봐야한다.
+          - listitem [ref=e1170]:
+            - heading "개발" [level=3] [ref=e1171]
+            - list [ref=e1172]:
+              - listitem [ref=e1173]: wendy.himion.com 애드센스 변경 –> 완료
+          - listitem [ref=e1174]: 해당 사이트는 다른 계정에서 관리했기 때문에 불편했다. 그냥 제거함.
+          - listitem [ref=e1175]: wendy에서 adsense 코드 virlit계정으로 변경 –> 완료
+          - listitem [ref=e1176]:
+            - text: himion 자동 라우팅 다시 wendy로 변경 –> 완료
+            - list [ref=e1177]:
+              - listitem [ref=e1178]: 이제 adsense 검토 신청하자 –> 완료
+          - listitem [ref=e1179]: 이제 기다려야한다. 얼마나 걸리는지도 체크하자
+      - listitem [ref=e1180]:
+        - heading "2026년 2월 25일 수요일" [level=3] [ref=e1181]:
+          - link "2026년 2월 25일 수요일" [ref=e1182] [cursor=pointer]:
+            - /url: /2026/02/25/
+        - 'heading "수면 : 12시 25분 ~ 8시 : 7시간 35분 - 잘잤다" [level=4] [ref=e1183]'
+        - list [ref=e1184]:
+          - listitem [ref=e1185]:
+            - heading "개발" [level=3] [ref=e1186]
+            - list [ref=e1187]:
+              - listitem [ref=e1188]: google adsense 재등록 –> 완료
+          - listitem [ref=e1189]:
+            - text: 비활성화 되어 있었다. 다시 주소 등록하고 활성화시킴
+            - list [ref=e1190]:
+              - listitem [ref=e1191]: sitemap 위치 오류 moonlit, finpin 모두 수정 완료
+          - listitem [ref=e1192]:
+            - paragraph [ref=e1193]: 내가 정신이 나갔다. 지금까지 잘못설정되어 있었다.
+          - listitem [ref=e1194]:
+            - heading "주식" [level=3] [ref=e1195]
+            - list [ref=e1196]:
+              - listitem [ref=e1197]: rgtz 본격적으로 매수 시작
+          - listitem [ref=e1198]:
+            - text: $8,700 매수
+            - list [ref=e1199]:
+              - listitem [ref=e1200]: 거래계좌의 알파벳 본주 모두 매도 –> ggll로 거래메인 변경
+          - listitem [ref=e1201]: ggll 21주 추매
+          - listitem [ref=e1202]:
+            - text: 현재 271주
+            - list [ref=e1203]:
+              - listitem [ref=e1204]: ktos 전량 손절 –> 심지어 장중 최저점에 매도 ㅠ
+          - listitem [ref=e1205]: 총 -25.56%, -1,468,101원 손실
+        - paragraph [ref=e1206]: 어머니 칠순잔치를 해드리지 못한 죄스러움이 밤새 머리를 떠나지 않았다. 대체 나는 부모님께 해드린것이 무엇인가.
+        - paragraph [ref=e1207]: 봄이다. 12도까지 올라왔다. 코트없이도 하나도 안춥다. 햇살이 따듯하다. 또 봄이왔다.
+        - paragraph [ref=e1208]: 하루종일 내 자신의 집중이 느껴지는 날이었다. 운동완료. 운동능력은 아직도 80~85% 밖에 안올라왔다. 스트레칭과 달리기가 제일 안올라온다.
+      - listitem [ref=e1209]:
+        - heading "2026년 2월 24일 화요일" [level=3] [ref=e1210]:
+          - link "2026년 2월 24일 화요일" [ref=e1211] [cursor=pointer]:
+            - /url: /2026/02/24/
+        - 'heading "수면 : 12시 30분 ~ 7시 : 6시간 30분 + 낮잠 잠깐" [level=4] [ref=e1212]'
+        - list [ref=e1213]:
+          - listitem [ref=e1214]:
+            - heading "작업" [level=3] [ref=e1215]
+            - list [ref=e1216]:
+              - listitem [ref=e1217]: 바이브코딩
+      - listitem [ref=e1218]:
+        - heading "2026년 2월 23일 월요일" [level=3] [ref=e1219]:
+          - link "2026년 2월 23일 월요일" [ref=e1220] [cursor=pointer]:
+            - /url: /2026/02/23/
+        - 'heading "수면 : 저녁 11시 50분 ~ 7시 30분 : 7시간 40분" [level=4] [ref=e1221]'
+        - list [ref=e1222]:
+          - listitem [ref=e1223]:
+            - heading "작업" [level=3] [ref=e1224]
+            - list [ref=e1225]:
+              - listitem [ref=e1226]: 바이브코딩 기본 학습 마무리
+              - listitem [ref=e1227]: 경영안정 바우처 신청 –> 완료
+        - paragraph [ref=e1228]: 감기가 끝을 향해가고 있다. 거의 다 나았다. 운동가도 되겠다 9일만에 운동이라고해도 이렇게까지 안될줄 몰랐다. 다리를 찢는건 예전의 50%도 안되고 달리기 턱걸이 모두 80%정도다. 세상에
+      - listitem [ref=e1229]:
+        - heading "2026년 2월 22일 일요일" [level=3] [ref=e1230]:
+          - link "2026년 2월 22일 일요일" [ref=e1231] [cursor=pointer]:
+            - /url: /2026/02/22/
+        - 'heading "수면 : 저녁 10시 ~ 4시 50분 : 6시간 50분" [level=4] [ref=e1232]'
+        - paragraph [ref=e1233]: 종일 머리가 아프다. 머리가 아픈 감기는 처음인거 같다. 그리고 코아래가 헐었다. 저녁이 되면서 서서히 감기가 낫는 기분이다. 일단 콧물이 줄었다.
+        - paragraph [ref=e1234]: 지난주 토요일부터 오늘까지 만으로 9일간 운동을 하지 않았다. 지난 10년간 이렇게 오랫동안 쉬었던 적이 있었나 싶다. 이제 모든 부상은 회복된거 같다. 아픈 부위가 없다.
+      - listitem [ref=e1235]:
+        - heading "2026년 2월 21일 토요일" [level=3] [ref=e1236]:
+          - link "2026년 2월 21일 토요일" [ref=e1237] [cursor=pointer]:
+            - /url: /2026/02/21/
+        - 'heading "수면 : 12시 ~ 7시 30분 : 7시간 30분" [level=4] [ref=e1238]'
+        - paragraph [ref=e1239]: 감기에 절여져 있다.
+      - listitem [ref=e1240]:
+        - heading "2026년 2월 20일 금요일" [level=3] [ref=e1241]:
+          - link "2026년 2월 20일 금요일" [ref=e1242] [cursor=pointer]:
+            - /url: /2026/02/20/
+        - 'heading "수면 : 12시 ~ 9시 : 9시간" [level=4] [ref=e1243]'
+        - paragraph [ref=e1244]: 감기가 더 심해졌다. 열이 많이 올랐다.
+      - listitem [ref=e1245]:
+        - heading "2026년 2월 19일 목요일" [level=3] [ref=e1246]:
+          - link "2026년 2월 19일 목요일" [ref=e1247] [cursor=pointer]:
+            - /url: /2026/02/19/
+        - 'heading "수면 : 12시 ~ 9시 : 9시간" [level=4] [ref=e1248]'
+        - list [ref=e1249]:
+          - listitem [ref=e1250]:
+            - heading "작업" [level=3] [ref=e1251]
+            - list [ref=e1252]:
+              - listitem [ref=e1253]: 어제가 감기 절정이었던거 같다. 체감적으로 덜하다.
+          - listitem [ref=e1254]: 하지만 증상은 전형적인 코감기 –> 몸살감기로 전이되고 있는거 같다.
+          - listitem [ref=e1255]:
+            - paragraph [ref=e1256]: 나른하다. 얼굴로 열이 오르고 있다.
+          - listitem [ref=e1257]:
+            - heading "개발" [level=3] [ref=e1258]
+            - list [ref=e1259]:
+              - listitem [ref=e1260]: you adore, yet으로 이름 변경 –> shall 제거
+              - listitem [ref=e1261]: 기술스택 대변경
+          - listitem [ref=e1262]: 개발 뿐 아니라 원화, 모델링, 애니메이션까지 모두 결정해야한다.
+          - listitem [ref=e1263]: 사운드 관련 생성 스택도 정리해놓는다.
+      - listitem [ref=e1264]:
+        - heading "2026년 2월 18일 수요일" [level=3] [ref=e1265]:
+          - link "2026년 2월 18일 수요일" [ref=e1266] [cursor=pointer]:
+            - /url: /2026/02/18/
+        - 'heading "수면 : 11시 50분 ~ 6시 30분 : 6시간 40분" [level=4] [ref=e1267]'
+        - list [ref=e1268]:
+          - listitem [ref=e1269]:
+            - heading "개발" [level=3] [ref=e1270]
+            - list [ref=e1271]:
+              - listitem [ref=e1272]: You shall adore, yet - 기술스택 변경
+          - listitem [ref=e1273]: "클라 : nuxt –> vue + vite"
+          - listitem [ref=e1274]: "게임엔진 : phaserjs –> babylonjs"
+          - listitem [ref=e1275]: "디자인 : tailwind"
+          - listitem [ref=e1276]: "서버 및 배포 : nodejs + nginx(로컬) –> deno + vercel(서버리스)"
+          - listitem [ref=e1277]: "DB : supabase"
+          - listitem [ref=e1278]: "AI : gemini pro –> gemini ultra + claude opus4.6"
+          - listitem [ref=e1279]: "QA : vitest + supabase CLI"
+          - listitem [ref=e1280]: "IDE : vscode –> antigravity"
+      - listitem [ref=e1281]:
+        - heading "2026년 2월 17일 화요일" [level=3] [ref=e1282]:
+          - link "2026년 2월 17일 화요일" [ref=e1283] [cursor=pointer]:
+            - /url: /2026/02/17/
+        - 'heading "수면 : 12시 ~ 7시 : 7시간" [level=4] [ref=e1284]'
+        - list [ref=e1285]:
+          - listitem [ref=e1286]:
+            - heading "작업" [level=3] [ref=e1287]
+            - list [ref=e1288]:
+              - listitem [ref=e1289]: "바이브 코딩 다른 사람들은 어떻게 하는지 조사 #1"
+          - listitem [ref=e1290]: 내일 나머지 마무리 하자.
+        - paragraph [ref=e1291]: 설날. 부모님 댁에 다녀옴. 운동을 오래 쉬니 다쳤던? 몸이 완전히 치유된거 같다.
+      - listitem [ref=e1292]:
+        - heading "2026년 2월 16일 월요일" [level=3] [ref=e1293]:
+          - link "2026년 2월 16일 월요일" [ref=e1294] [cursor=pointer]:
+            - /url: /2026/02/16/
+        - 'heading "수면 : 기록 안했다. 기억안남" [level=4] [ref=e1295]'
+      - listitem [ref=e1296]:
+        - heading "2026년 2월 15일 일요일" [level=3] [ref=e1297]:
+          - link "2026년 2월 15일 일요일" [ref=e1298] [cursor=pointer]:
+            - /url: /2026/02/15/
+        - 'heading "수면 : 12시 45분 ~ 9시 15분 : 8시간 30분" [level=4] [ref=e1299]'
+        - paragraph [ref=e1300]: 도서관에서 종일 독서
+      - listitem [ref=e1301]:
+        - heading "2026년 2월 14일 토요일" [level=3] [ref=e1302]:
+          - link "2026년 2월 14일 토요일" [ref=e1303] [cursor=pointer]:
+            - /url: /2026/02/14/
+        - 'heading "수면 : 1시 ~ 10시 : 9시간" [level=4] [ref=e1304]'
+        - list [ref=e1305]:
+          - listitem [ref=e1306]:
+            - heading "작업" [level=3] [ref=e1307]
+            - list [ref=e1308]:
+              - listitem [ref=e1309]: 어머니 생신
+          - listitem [ref=e1310]: 집에 다녀옴
+          - listitem [ref=e1311]: 소갈비 먹었음
+          - listitem [ref=e1312]: 아버지께서 베스킨라빈스에서 아이스크림 케익을 사오심. 놀랐음
+          - listitem [ref=e1313]: 평생 어머니께 제대로 해드리지 못해 마음 아픔
+      - listitem [ref=e1314]:
+        - heading "2026년 2월 13일 금요일" [level=3] [ref=e1315]:
+          - link "2026년 2월 13일 금요일" [ref=e1316] [cursor=pointer]:
+            - /url: /2026/02/13/
+        - 'heading "수면 : 1시 ~ 8시 20분 : 7시간 20분" [level=4] [ref=e1317]'
+        - list [ref=e1318]:
+          - listitem [ref=e1319]:
+            - heading "작업" [level=3] [ref=e1320]
+            - list [ref=e1321]:
+              - listitem [ref=e1322]: ai 스터디
+        - paragraph [ref=e1323]: 운동완료. 몸이 무거웠다. 겨우 90kg데드를 치는 중에 갑자기 허리에 무리가 가는걸 느껴 바로 멈췄다. 무게가 가볍다보니 예전처럼 치명적인 느낌은 아니었다. 부위도 좀 달랐다. 허벅지가 좀 땡겼었는데 이게 자세에 영향을 준거같다.
+      - listitem [ref=e1324]:
+        - heading "2026년 2월 12일 목요일" [level=3] [ref=e1325]:
+          - link "2026년 2월 12일 목요일" [ref=e1326] [cursor=pointer]:
+            - /url: /2026/02/12/
+        - 'heading "수면 : 1시 20분 ~ 10시 30분 : 9시간 10분" [level=4] [ref=e1327]'
+        - list [ref=e1328]:
+          - listitem [ref=e1329]:
+            - heading "작업" [level=3] [ref=e1330]
+            - list [ref=e1331]:
+              - listitem [ref=e1332]: ai 복습중
+          - listitem [ref=e1333]:
+            - paragraph [ref=e1334]: 일단 ai 기초개념부터 다시 복습을 시작해야겠다. 너무 많은 것들을 잊어버렸다.
+          - listitem [ref=e1335]:
+            - heading "주식" [level=3] [ref=e1336]
+            - list [ref=e1337]:
+              - listitem [ref=e1338]: 국장을 빼고 모든 자산의 가격이 떨어지고 있다.
+          - listitem [ref=e1339]: 환율까지 떨어지고 있다. 내게는 최악이다.
+          - listitem [ref=e1340]: 정말 갈곳이 채권뿐인지 고민이 된다.
+        - paragraph [ref=e1341]: 낮잠을 자지 않으니 체감적으로 낮이 길어진 기분이다. 덕분에 다시 배가 고파졌다. 몸무게가 이전으로 돌아왔다 ㅠ
+      - listitem [ref=e1342]:
+        - heading "2026년 2월 11일 수요일" [level=3] [ref=e1343]:
+          - link "2026년 2월 11일 수요일" [ref=e1344] [cursor=pointer]:
+            - /url: /2026/02/11/
+        - 'heading "수면 : 12시 20분 ~ 9시 : 8시간 40분" [level=4] [ref=e1345]'
+        - list [ref=e1346]:
+          - listitem [ref=e1347]:
+            - heading "개발" [level=3] [ref=e1348]
+            - list [ref=e1349]:
+              - listitem [ref=e1350]: openclaw 작업하기 –> 완료
+          - listitem [ref=e1351]: moltbot에서 이름이 또 바뀌었다. 다시 처음부터 작업해보자.
+          - listitem [ref=e1352]: google antigravity - gemini 3 pro flash 모델선택
+          - listitem [ref=e1353]: telegram bot api 연동
+          - listitem [ref=e1354]:
+            - text: 드디어 잘돌아간다.
+            - list [ref=e1355]:
+              - listitem [ref=e1356]: 본격적으로 phaserjs 학습하기
+        - paragraph [ref=e1357]: 운동완료. 뇌를 비우기 위해 미친듯이 운동했다.
+      - listitem [ref=e1358]:
+        - heading "2026년 2월 10일 화요일" [level=3] [ref=e1359]:
+          - link "2026년 2월 10일 화요일" [ref=e1360] [cursor=pointer]:
+            - /url: /2026/02/10/
+        - 'heading "수면 : 1시 ~ 9시 30분 : 8시간 30분" [level=4] [ref=e1361]'
+        - list [ref=e1362]:
+          - listitem [ref=e1363]:
+            - heading "작업" [level=3] [ref=e1364]
+            - list [ref=e1365]:
+              - listitem [ref=e1366]
+          - listitem [ref=e1367]:
+            - heading "개발" [level=3] [ref=e1368]
+            - list [ref=e1369]:
+              - listitem [ref=e1370]: ssl 업데이트 –> 일주일이나 누락했다.
+              - listitem [ref=e1371]: wendy 백업 파일 최신 하나만 남기고 모두 삭제함
+              - listitem [ref=e1372]: Antigravity용 github token 생성함
+              - listitem [ref=e1373]: ssl 자동 갱신 코드로 만들기 –> 완료
+          - listitem [ref=e1374]: himion.com에 넣었다.
+          - listitem [ref=e1375]: 바이브 코딩으로 했다. 실제로 정상적으로 돌아갈지는 그때가서 테스트하자.
+          - listitem [ref=e1376]:
+            - text: 65일 후 자동으로 갱신된다.
+            - list [ref=e1377]:
+              - listitem [ref=e1378]: ssl 주소도 최신으로 갱신했다. 안쓰는 주소들이 많아 renew시에 에러가 많이떴다. 모두 제거완료
+              - listitem [ref=e1379]: phaserjs v4 –> v3로 다시 변경.
+          - listitem [ref=e1380]: 바이브 코딩에 v4는 데이터가 너무 적다. 제대로 못한다.
+          - listitem [ref=e1381]: v3로 돌려놓고 나중에 필요하면 바꿔도 충분하단다(gemini)
+      - listitem [ref=e1382]:
+        - heading "2026년 2월 09일 월요일" [level=3] [ref=e1383]:
+          - link "2026년 2월 09일 월요일" [ref=e1384] [cursor=pointer]:
+            - /url: /2026/02/09/
+        - 'heading "수면 : 12시 15분 ~ 5시 10분 + 낮잠 1시간 : 5시간 55분" [level=4] [ref=e1385]'
+        - list [ref=e1386]:
+          - listitem [ref=e1387]:
+            - heading "작업" [level=3] [ref=e1388]
+            - list [ref=e1389]:
+              - listitem [ref=e1390]: "사무실 1년연장 + 1개월 : 이제 3월 말이 만기다."
+          - listitem [ref=e1391]: 20일 남겨놓고 부동산을 통해 갑자기 5만원 올려달라고 하더라 –> 조심스럽게 이해가 안된다고 함
+          - listitem [ref=e1392]:
+            - paragraph [ref=e1393]: 담당 부동산이 1층의 어떤 곳으로 바뀌었다. 나중에 계약서 재작성하기로 함.
+          - listitem [ref=e1394]:
+            - heading "주식" [level=3] [ref=e1395]
+            - list [ref=e1396]:
+              - listitem [ref=e1397]: 오라클이 갑자기 급상승해서 orcs 100주 매수
+          - listitem [ref=e1398]: 내 성향을 보면 논리적 분석보다 싫어하는 기업은 숏을 치는거 같다.
+          - listitem [ref=e1399]: 이는 좋아하는 기업에 롱을 치는 것과 같다.
+          - listitem [ref=e1400]: 그래야 오래 버틸수 있기 때문인거 같다.
+          - listitem [ref=e1401]: 모르겠다. 일단 가자.
+        - paragraph [ref=e1402]: 운동완료. 운동을 시작하는데 허리통증이 전혀 없음을 느꼈다. 그동안 무리한 데드리프트로 허리가 고생했었는데 오랜만에 3일간 운동을 쉬었더니 아프지가 않다. 허리가 아프지 않으니 코어 성능이 급격히 올라갔다. 앞으로 데드는 신중하게 해야겠다고 더욱더 느꼈다.
+      - listitem [ref=e1403]:
+        - heading "2026년 2월 08일 일요일" [level=3] [ref=e1404]:
+          - link "2026년 2월 08일 일요일" [ref=e1405] [cursor=pointer]:
+            - /url: /2026/02/08/
+        - 'heading "수면 : 12시 20분 ~ 9시 30분 : 9시간 10분" [level=4] [ref=e1406]'
+        - list [ref=e1407]:
+          - listitem [ref=e1408]:
+            - heading "작업" [level=3] [ref=e1409]
+            - list [ref=e1410]:
+              - listitem [ref=e1411]: 희미한 로고를 레트로 감성으로 만들자
+          - listitem [ref=e1412]:
+            - text: https://www.youtube.com/shorts/_xpII-75R24
+            - list [ref=e1413]:
+              - listitem [ref=e1414]: phaserjs 학습 속도내자. 일단 전체적인 구조를 이해해야한다
+          - listitem [ref=e1415]:
+            - heading "가상화폐" [level=3] [ref=e1416]
+            - list [ref=e1417]:
+              - listitem [ref=e1418]: 바이낸스에 있던 소량의 비트코인을 usdc로 convert함
+          - listitem [ref=e1419]: 0.01043955 –> 717.16703924 usdc
+          - listitem [ref=e1420]: "바이낸스에서 BTC를 USDC로 바꾸는 방법 가장 쉽고 수수료가 저렴한 방법은 ‘Binance Convert’ 기능을 사용하는 것입니다. Binance 앱/웹 접속: 로그인 후 메뉴에서 [Trade(거래)] -> [Convert(전환)]를 선택합니다. 코인 선택: ‘From(보낼 코인)’에 BTC를, ‘To(받을 코인)’에 USDC를 선택합니다. 금액 입력: 0.01을 입력하거나 ‘Max’ 버튼을 누릅니다. 미리보기 및 확정: [Preview Conversion]을 눌러 적용되는 환율을 확인한 뒤, 제한 시간(보통 5~10초) 내에 [Convert]를 누르면 즉시 교체됩니다. 참고: 일반 현물 거래(Spot Trading)를 통해서도 가능하지만, ‘Convert’ 기능이 초보자에게 더 직관적이며 추가 거래 수수료가 붙지 않아 유리합니다."
+      - listitem [ref=e1421]:
+        - heading "2026년 2월 07일 토요일" [level=3] [ref=e1422]:
+          - link "2026년 2월 07일 토요일" [ref=e1423] [cursor=pointer]:
+            - /url: /2026/02/07/
+        - 'heading "수면 : 12시 50분 ~ 9시 : 완벽" [level=4] [ref=e1424]'
+        - list [ref=e1425]:
+          - listitem [ref=e1426]:
+            - heading "작업" [level=3] [ref=e1427]
+            - list [ref=e1428]:
+              - listitem [ref=e1429]: 뭐 특별히 한게 없구나. 이러면 안되지 않나싶네
+      - listitem [ref=e1430]:
+        - heading "2026년 2월 06일 금요일" [level=3] [ref=e1431]:
+          - link "2026년 2월 06일 금요일" [ref=e1432] [cursor=pointer]:
+            - /url: /2026/02/06/
+        - 'heading "수면 : 12시 50분 ~ 10시 25분 : 9시간 35분" [level=4] [ref=e1433]'
+        - list [ref=e1434]:
+          - listitem [ref=e1435]:
+            - heading "작업" [level=3] [ref=e1436]
+            - list [ref=e1437]:
+              - listitem [ref=e1438]: 저기 가장자리 기획 완료하기 –> 러프기획 완료
+      - listitem [ref=e1439]:
+        - heading "2026년 2월 05일 목요일" [level=3] [ref=e1440]:
+          - link "2026년 2월 05일 목요일" [ref=e1441] [cursor=pointer]:
+            - /url: /2026/02/05/
+        - 'heading "수면 : 2시 10분 ~ 7시 50분 : 6시간 40분. 수면 시간이 짧았지만 잘잤다. 오늘 brain fog가 어떨지 확인해보자." [level=4] [ref=e1442]'
+        - list [ref=e1443]:
+          - listitem [ref=e1444]:
+            - heading "작업" [level=3] [ref=e1445]
+            - list [ref=e1446]:
+              - listitem [ref=e1447]: 일찍 일어났지만 오전 brain은 아주 쾌적한 상태다.
+              - listitem [ref=e1448]: 스마트스토어 정산금 입금됨 –> 어제 결제완료한 상품인데 오늘 입금이 되다니. 무슨일인가.
+        - paragraph [ref=e1449]: 운동완료
+      - listitem [ref=e1450]:
+        - heading "2026년 2월 04일 수요일" [level=3] [ref=e1451]:
+          - link "2026년 2월 04일 수요일" [ref=e1452] [cursor=pointer]:
+            - /url: /2026/02/04/
+        - 'heading "수면 : 새벽 12시 50분 ~ 11시 50분 : 11시간 잤다. 심지어 푹 잤다." [level=4] [ref=e1453]'
+        - list [ref=e1454]:
+          - listitem [ref=e1455]:
+            - heading "작업" [level=3] [ref=e1456]
+            - list [ref=e1457]:
+              - listitem [ref=e1458]: 도다리ai 도서 1권 번역 및 전달 완료
+              - listitem [ref=e1459]: 티로신 복용 시작
+          - listitem [ref=e1460]: 나와 맞는거 같다. 이번주 내내 brain fog가 없었다.
+      - listitem [ref=e1461]:
+        - heading "2026년 2월 03일 화요일" [level=3] [ref=e1462]:
+          - link "2026년 2월 03일 화요일" [ref=e1463] [cursor=pointer]:
+            - /url: /2026/02/03/
+        - 'heading "수면 : 1시 40분 ~ 8시 40분 : 아주 좋다. brain fog가 사라지면서 잠까지 깊게 잘자고 있다. 9시전에 기상했음에도 오후에도 계속 머리가 맑다." [level=4] [ref=e1464]'
+        - list [ref=e1465]:
+          - listitem [ref=e1466]:
+            - heading "작업" [level=3] [ref=e1467]
+            - list [ref=e1468]:
+              - listitem [ref=e1469]: 1월 수익 정리하기 –> ok
+          - listitem [ref=e1470]:
+            - text: 기록을 보면 1월수익 약 +2400만원
+            - list [ref=e1471]:
+              - listitem [ref=e1472]: 사무실 월세 자동이체 기간 1년 연장하기 –> ok
+              - listitem [ref=e1473]: 티로신 준비 완료. 오후부터 시작
+              - listitem [ref=e1474]: 머스크 리스크 속독
+          - listitem [ref=e1475]:
+            - heading "주식" [level=3] [ref=e1476]
+            - list [ref=e1477]:
+              - listitem [ref=e1478]: 어제 하한가여서 팔리지 못했던 금이 오늘은 다시 +3.8%나 오르고 있다. 국장은 어제 -5% 빠졌다가 오늘 +5% 넘게 오르고 있다. 미친시장이다.
+        - paragraph [ref=e1479]: 운동완료
+      - listitem [ref=e1480]:
+        - heading "2026년 2월 02일 월요일" [level=3] [ref=e1481]:
+          - link "2026년 2월 02일 월요일" [ref=e1482] [cursor=pointer]:
+            - /url: /2026/02/02/
+        - 'heading "수면 : 3시 ~ 10시" [level=4] [ref=e1483]'
+        - list [ref=e1484]:
+          - listitem [ref=e1485]:
+            - heading "개발" [level=3] [ref=e1486]
+            - list [ref=e1487]:
+              - listitem [ref=e1488]: finPin 마우스 롤오버시 정확한 날짜 보여주기 업데이트
+          - listitem [ref=e1489]:
+            - heading "주식" [level=3] [ref=e1490]
+            - list [ref=e1491]:
+              - listitem [ref=e1492]: 금 43g 매도 (234,790원)
+          - listitem [ref=e1493]: 약 3%, 38만원 먹고 말았다.
+          - listitem [ref=e1494]: +20%까지 올라갔던게 -7%를 2번이나 맞았다.
+          - listitem [ref=e1495]: 상상을 초월하는 유동성이라 감당이 안돼서 일단 나왔다.
+        - paragraph [ref=e1496]: 운동완료
+      - listitem [ref=e1497]:
+        - heading "2026년 2월 01일 일요일" [level=3] [ref=e1498]:
+          - link "2026년 2월 01일 일요일" [ref=e1499] [cursor=pointer]:
+            - /url: /2026/02/01/
+        - 'heading "수면 : 2시 ~ 9시 20분" [level=4] [ref=e1500]'
+        - list [ref=e1501]:
+          - listitem [ref=e1502]:
+            - heading "작업" [level=3] [ref=e1503]
+            - list [ref=e1504]:
+              - listitem [ref=e1505]: 사무실 관리비 예약이체
+              - listitem [ref=e1506]: 티로신 2통 주문
+          - listitem [ref=e1507]: 수요일 도착
+          - listitem [ref=e1508]: ai 조언대로 복용
+          - listitem [ref=e1509]: 오전 2알 + 커피(나중에 3알까지 괜찮단다)
+          - listitem [ref=e1510]:
+            - paragraph [ref=e1511]: 오후 2알 + 논알콜 맥주
+          - listitem [ref=e1512]:
+            - heading "주식" [level=3] [ref=e1513]
+            - list [ref=e1514]:
+              - listitem [ref=e1515]: 코인시장이 박살나고 있다. 월요일 금은 주식시장이 어떻게 될지.
+              - listitem [ref=e1516]: 선물옵션 교육 이수해야한다 - Deep ITM 풋옵션 딱 ‘1계약’
+      - listitem [ref=e1517]:
+        - heading "2026년 1월 31일 토요일" [level=3] [ref=e1518]:
+          - link "2026년 1월 31일 토요일" [ref=e1519] [cursor=pointer]:
+            - /url: /2026/01/31/
+        - 'heading "수면 : 2시 ~ 12시 : 갈수록 내가 인간인지 의심스럽다" [level=4] [ref=e1520]'
+        - list [ref=e1521]:
+          - listitem [ref=e1522]:
+            - heading "작업" [level=3] [ref=e1523]
+            - list [ref=e1524]:
+              - listitem [ref=e1525]: g80기름 넣고옴. 배터리도 충분히 충전함
+          - listitem [ref=e1526]: 보조금 마지막 날이었다.
+      - listitem [ref=e1527]:
+        - heading "2026년 1월 30일 금요일" [level=3] [ref=e1528]:
+          - link "2026년 1월 30일 금요일" [ref=e1529] [cursor=pointer]:
+            - /url: /2026/01/30/
+        - 'heading "수면 : 기억안남" [level=4] [ref=e1530]'
+        - list [ref=e1531]:
+          - listitem [ref=e1532]:
+            - heading "주식" [level=3] [ref=e1533]
+            - list [ref=e1534]:
+              - listitem [ref=e1535]: 테슬라가 끝내 +3.3% 폭등했다.
+          - listitem [ref=e1536]: 나는 계속 매수했다. 원화 2500만원까지 왔다.
+          - listitem [ref=e1537]: 대한민국 신도들의 믿음이 너무 강렬해 조금 두렵긴하다. 아주 조금.
+          - listitem [ref=e1538]: 월요일 상황을 보고 ai가 추천해진 ‘Deep ITM 풋옵션’ leaps 계약에 도전해보려한다. 일단 학습이 필요하다.
+      - listitem [ref=e1539]:
+        - heading "2026년 1월 29일 목요일" [level=3] [ref=e1540]:
+          - link "2026년 1월 29일 목요일" [ref=e1541] [cursor=pointer]:
+            - /url: /2026/01/29/
+        - 'heading "수면 : 3시 ~ 12시 : 잘잔다 진짜. 아주 깊게 오래잤다." [level=4] [ref=e1542]'
+        - list [ref=e1543]:
+          - listitem [ref=e1544]:
+            - heading "작업" [level=3] [ref=e1545]
+            - list [ref=e1546]:
+              - listitem [ref=e1547]: 국세체납관리단 서류탈락
+          - listitem [ref=e1548]:
+            - paragraph [ref=e1549]: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 3배수로 뽑았는데 거기서도 탈락ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 부끄럽다 진짜
+          - listitem [ref=e1550]:
+            - heading "주식" [level=3] [ref=e1551]
+            - list [ref=e1552]:
+              - listitem [ref=e1553]: 테슬라가 저런 실적으로도 주가가 +2% 올랐다.
+          - listitem [ref=e1554]: 테슬라가 xAI 우선주 20억 달러 투자한다는 소식을 듣고 tsls 투자가 역시나 가치투자임을 재확인했다. 흔들림없이 숏 칠수 있게됐다.
+      - listitem [ref=e1555]:
+        - heading "2026년 1월 28일 수요일" [level=3] [ref=e1556]:
+          - link "2026년 1월 28일 수요일" [ref=e1557] [cursor=pointer]:
+            - /url: /2026/01/28/
+        - 'heading "수면 : 새벽 5시 ~ 12시 50분 : 사람이 아니올시다" [level=4] [ref=e1558]'
+        - list [ref=e1559]:
+          - listitem [ref=e1560]:
+            - heading "작업" [level=3] [ref=e1561]
+            - list [ref=e1562]:
+              - listitem [ref=e1563]: finPin 코드 분석 및 리팩토링 중
+          - listitem [ref=e1564]: 도서관에서 작업중
+          - listitem [ref=e1565]: 먼저 프론트 테스트 중
+          - listitem [ref=e1566]: class 관련 문법 복습
+          - listitem [ref=e1567]:
+            - text: back/common/config.ts 파일 하나만 ai와 리팩토링 완료
+            - list [ref=e1568]:
+              - listitem [ref=e1569]: moltbot R&D중
+          - listitem [ref=e1570]:
+            - heading "주식" [level=3] [ref=e1571]
+            - list [ref=e1572]:
+              - listitem [ref=e1573]: 환율이 엄청나게 떨어졌다.
+          - listitem [ref=e1574]:
+            - text: 망했쓰요
+            - list [ref=e1575]:
+              - listitem [ref=e1576]: 그나마 알파벳이 올라주고 있어 다행이다.
+              - listitem [ref=e1577]: tsls 1000주를 채웠다. 오늘 테슬라 실적발표다. 어떻게 될것인가.
+          - listitem [ref=e1578]: 테슬라가 폭등해도 괜찮다. 어차피 올해 12월까지 보는거다. 장기 숏투자다.
+      - listitem [ref=e1579]:
+        - heading "2026년 1월 27일 화요일" [level=3] [ref=e1580]:
+          - link "2026년 1월 27일 화요일" [ref=e1581] [cursor=pointer]:
+            - /url: /2026/01/27/
+        - 'heading "수면 : 2시 10분 ~ 11시 : 미친놈" [level=4] [ref=e1582]'
+        - list [ref=e1583]:
+          - listitem [ref=e1584]:
+            - heading "작업" [level=3] [ref=e1585]
+            - list [ref=e1586]:
+              - listitem [ref=e1587]: ‘문을 닫으면’ 시작. phaserjs 학습중.
+          - listitem [ref=e1588]: 도서관에서 작업함. 너무너무 집중이 잘됨
+          - listitem [ref=e1589]: 게임 기본 템플릿 재작성 중
+        - paragraph [ref=e1590]: 가습기 때문이었던거 같다. 어제 지독하게 안좋았던 컨디션이 돌아왔다. 이번이 두번째다. 그렇다면 가습기 때문이 확실하다. 지난번과 증상도 똑같았기 때문이다. 가습기를 약하게 틀면 나아질줄 알았는데 약하게 틀어도 마찬가지였다. 일단 가습기 청소를 하고 더욱 약하게 한번 틀어보자. 그래도 안좋은 느낌이 드는 ‘눈치’라면 더 이상 고생하지말고 폐기하자.
+        - paragraph [ref=e1591]: 컨디션 최고의 날이었다. 엄청나게 운동이 잘됐다. 몸이 날아다녔다. 심지어 스트레칭도 잘됐다. 몸무게는 2kg이 더 빠졌는데 무게는 다시 120kg을 칠수있게 됐다.
+      - listitem [ref=e1592]:
+        - heading "2026년 1월 26일 월요일" [level=3] [ref=e1593]:
+          - link "2026년 1월 26일 월요일" [ref=e1594] [cursor=pointer]:
+            - /url: /2026/01/26/
+        - 'heading "수면 : 3시 ~ 10시 30분" [level=4] [ref=e1595]'
+        - list [ref=e1596]:
+          - listitem [ref=e1597]:
+            - heading "작업" [level=3] [ref=e1598]
+            - list [ref=e1599]:
+              - listitem [ref=e1600]: 문을 닫으면 러프 기획완료
+          - listitem [ref=e1601]: 가장 집중력이 떨어지는 오후에 불현듯 나왔다.
+          - listitem [ref=e1602]: ai와 계속 이야기하며 이야기가 구체화되었다.
+          - listitem [ref=e1603]:
+            - paragraph [ref=e1604]: 마음에 든다. 드디어 나왔다. 오랫동안 머릿속에서 굴러다니던 ‘망상’이었는데 지금은 ai시대, 이걸 실제로 만들수도 있을것 같다. 도전하기로 한다.
+          - listitem [ref=e1605]:
+            - heading "주식" [level=3] [ref=e1606]
+            - list [ref=e1607]:
+              - listitem [ref=e1608]: 환율이 1430원대까지 한번에 떨어졌다.
+          - listitem [ref=e1609]: 완전히 망했따 ㅠ
+        - paragraph [ref=e1610]: 하루종일 배가 더부룩했다. 지금(새벽 2시)도 더부룩하다. 그리고 운동까지 되지 않았다. 스트레칭도 턱걸이도 달리기도 평소의 절반도 수행되지 않았다. 가장 어이가 없는건 허리가 아픈거였다. 아파본적이 없는 허리가 아팠다. 오늘은 그냥 자고 내일 몸을 다시 살펴보자
+      - listitem [ref=e1611]:
+        - heading "2026년 1월 25일 일요일" [level=3] [ref=e1612]:
+          - link "2026년 1월 25일 일요일" [ref=e1613] [cursor=pointer]:
+            - /url: /2026/01/25/
+        - 'heading "수면 : 4시 ~ 10시" [level=4] [ref=e1614]'
+        - list [ref=e1615]:
+          - listitem [ref=e1616]:
+            - heading "작업" [level=3] [ref=e1617]
+            - list [ref=e1618]:
+              - listitem [ref=e1619]: 예감은 틀리지 않는다 완독
+          - listitem [ref=e1620]:
+            - heading "주식" [level=3] [ref=e1621]
+            - list [ref=e1622]:
+              - listitem [ref=e1623]: 트럼프 그린란드 수탈방법 분석
+          - listitem [ref=e1624]: 트럼프가 한번 더 대통령을 노릴까?
+          - listitem [ref=e1625]:
+            - text: 그건 이번 관세부과에 대한 법원의 판결 결과와 그에 대한 트럼프의 행동으로 미루어 알수 있을것이다
+            - list [ref=e1626]:
+              - listitem [ref=e1627]: 중국이 대만 먹는 시나리오 조사
+      - listitem [ref=e1628]:
+        - heading "2026년 1월 24일 토요일" [level=3] [ref=e1629]:
+          - link "2026년 1월 24일 토요일" [ref=e1630] [cursor=pointer]:
+            - /url: /2026/01/24/
+        - 'heading "수면 : 1시 30분 ~ 9시 30분" [level=4] [ref=e1631]'
+        - list [ref=e1632]:
+          - listitem [ref=e1633]:
+            - heading "작업" [level=3] [ref=e1634]
+            - list [ref=e1635]:
+              - listitem [ref=e1636]: 이번주에 급하게 행했던 환전, 투자들은 모두 망했다.
+          - listitem [ref=e1637]: 기존 내 방식대로 했다면 전혀 손실이 나지 않았을 것이다.
+          - listitem [ref=e1638]: 계속 복기했다.
+      - listitem [ref=e1639]:
+        - heading "2026년 1월 23일 금요일" [level=3] [ref=e1640]:
+          - link "2026년 1월 23일 금요일" [ref=e1641] [cursor=pointer]:
+            - /url: /2026/01/23/
+        - 'heading "수면 : 1시 35분 ~ 10시 30분 - 밤새 잠을 자지 못했다. 내 인생의 패배 하나하나가 구체적으로 느껴졌다. 이대로 무기력하게 나이들어가는가. 패배로 결정나는가. 지금은 나조차 지금의 나에게서 20대의 나를 찾지 못하겠다. 그때의 나에게 부끄러울텐가. 그때의 나에게 미안해할텐가. 그렇게 부정해오던것들에 이제와 고개를 끄덕일텐가." [level=4] [ref=e1642]'
+        - list [ref=e1643]:
+          - listitem [ref=e1644]:
+            - heading "작업" [level=3] [ref=e1645]
+            - list [ref=e1646]:
+              - listitem [ref=e1647]: 헤어샵 다녀옴
+          - listitem [ref=e1648]:
+            - heading "주식" [level=3] [ref=e1649]
+            - list [ref=e1650]:
+              - listitem [ref=e1651]: 거래계좌가 드디어? 음전했다.
+          - listitem [ref=e1652]: avav와 ktos가 며칠만에 거의 20% 가까운 하락을 해서다
+          - listitem [ref=e1653]: 나머지는 문제없다. 어쨌든 +400에서 -20만원으로 바뀌었다
+          - listitem [ref=e1654]: 이번에는 매수 방식의 잘못이었다. 초반에 크게 들어간후, 급등시 추매를 하지 않았다면 이렇게 크게 맞지 않았을 것이다.
+          - listitem [ref=e1655]:
+            - text: 가치주와 다르게 들어가야 한다. 이런 방식의 투자는 처음이어서 아직도 낯설다. 하지만 이것도 익혀둬야 한다. 현금은 많다.
+            - list [ref=e1656]:
+              - listitem [ref=e1657]: 기업 공인인증서 갱신
+        - list [ref=e1658]:
+          - listitem [ref=e1659]:
+            - text: 기존 전략의 수정과 새로운 전략의 추가가 필요하다
+            - list [ref=e1660]:
+              - listitem [ref=e1661]: 2022년 나는 높은 도약을 위해 커다란 실패를 각오하고 샤오펑에 들어갔었다. 기업의 역량과 가치를 봤었다.
+              - listitem [ref=e1662]: 당시 4억 1천만원이던 내 자산은 2024년 8월에 1억 1천만원까지 떨어졌다. 3억을 날린것이다.
+              - listitem [ref=e1663]: 다시 내 주식자산은 4억 1천만원이 됐다. 그때보다 원화의 가치는 떨어졌지만 그때보다 다른 자산들을 더 많이 가지고 있다. 그리니 실질 가치는 비슷할 것이다.
+              - listitem [ref=e1664]: 하지만 4년의 시간을 날렸다. 그때의 실패는 뼈져렸다.
+              - listitem [ref=e1665]: 벌써 1월도 20일이 지났다.
+              - listitem [ref=e1666]: 그때처럼 실패하면 안되지만 그렇다고 가만히 있을수도 없다. 하지만 지금 내 눈에는 아무것도 보이지 않는다. 흐릿하다. 흐릿한 공허다.
+              - listitem [ref=e1667]: 나는 내가 이런 수준의 고민을 하고 이런 수준의 환경에 여전히 머물러 있다는게 견딜수 없다.
+        - paragraph [ref=e1668]: 부자들이 아닌 위대한 영혼들과 함께하고 싶다. 그들에게 나또한 좀더 머무르고 싶은 영혼이고 싶다
+      - listitem [ref=e1669]:
+        - heading "2026년 1월 22일 목요일" [level=3] [ref=e1670]:
+          - link "2026년 1월 22일 목요일" [ref=e1671] [cursor=pointer]:
+            - /url: /2026/01/22/
+        - 'heading "수면 : 1시 ~ 8시 45분 : 오랜만에 역대급으로 깊게 잘 잤다." [level=4] [ref=e1672]'
+        - list [ref=e1673]:
+          - listitem [ref=e1674]:
+            - heading "주식" [level=3] [ref=e1675]
+            - list [ref=e1676]:
+              - listitem [ref=e1677]: 무엇을 잘못 계산했던 것일까 그리고 이제 어떻게 해야할까
+      - listitem [ref=e1678]:
+        - heading "2026년 1월 21일 수요일" [level=3] [ref=e1679]:
+          - link "2026년 1월 21일 수요일" [ref=e1680] [cursor=pointer]:
+            - /url: /2026/01/21/
+        - 'heading "수면 : 엉망. 새벽늦게까지 흑백요리사보고 이른새벽에 전화와서 20분간 잠못자고 완전히 망가졌다." [level=4] [ref=e1681]'
+        - list [ref=e1682]:
+          - listitem [ref=e1683]:
+            - heading "주식" [level=3] [ref=e1684]
+            - list [ref=e1685]:
+              - listitem [ref=e1686]: 1억 추가 대출.
+          - listitem [ref=e1687]: 늦게 일어나보니 환율이 떨어져있었다. 허겁지겁 대출 신청을 했다.
+          - listitem [ref=e1688]:
+            - text: 이제 총대출 1억 5천
+            - list [ref=e1689]:
+              - listitem [ref=e1690]: 8천만원 환전 –> $54,389.2 (₩1470.88)
+          - listitem [ref=e1691]: 어제 주가폭락으로 달러가 너무나 필요했다.
+          - listitem [ref=e1692]:
+            - text: 하지만 너무 서두른것 아닐까 우려도 된다.
+            - list [ref=e1693]:
+              - listitem [ref=e1694]: avav는 -3%가 넘게 더 떨어지고 있다.
+          - listitem [ref=e1695]:
+            - list [ref=e1696]:
+              - listitem [ref=e1697]: 150만원에서 -150만원으로 바뀌었다 ㅠ 4. krx금현물 3백만원어치 추가 매수 5. kodex코스피 인버스x2 44만원 매수
+          - listitem [ref=e1698]:
+            - text: 드디어!
+            - list [ref=e1699]:
+              - listitem [ref=e1700]: tiger차이나로봇 100주 추매
+          - listitem [ref=e1701]:
+            - paragraph [ref=e1702]: 이제 평가금액 1850만원까지 올라왔다. 현재 +93만원 수익중
+          - listitem [ref=e1703]:
+            - heading "반성" [level=2] [ref=e1704]
+            - list [ref=e1705]:
+              - listitem [ref=e1706]: 가치주 아닌 다른 주식을 살때는 가치주를 살때처럼 접근하면 안될거 같다.
+              - listitem [ref=e1707]: 바꿔야한다. 처음 들어갈때 비중을 60%이상 줘야한다. 리스크를 안고들어가는거다. 즉 처음 매수 타이밍을 빠르게 잡는게 중요한것 같다. 가치주처럼 계속 사는 방법은 avav처럼 한방에 -15%를 맞았을때 그대로 무너진다. 처음 싸게 많이 산후 추매하지 않았다면 아마 아직도 큰 수익중일 것이다.
+              - listitem [ref=e1708]: 좀더 고민해보자
+        - paragraph [ref=e1709]: 흑백요리사 계속 봄 운동완료
+      - listitem [ref=e1710]:
+        - heading "2026년 1월 20일 화요일" [level=3] [ref=e1711]:
+          - link "2026년 1월 20일 화요일" [ref=e1712] [cursor=pointer]:
+            - /url: /2026/01/20/
+        - 'heading "수면 : 1시 30분 ~ 9시 40분" [level=4] [ref=e1713]'
+        - list [ref=e1714]:
+          - listitem [ref=e1715]:
+            - heading "작업" [level=3] [ref=e1716]
+            - list [ref=e1717]:
+              - listitem [ref=e1718]: 국세체납관리단 기간제 근로자 응시 완료
+          - listitem [ref=e1719]: 당연히 떨어질거라 예상하고 넣어봤다. 10년만에 이력서를 쓰며 내 경력의 부족함이 뼈저리게 느껴졌다.
+          - listitem [ref=e1720]:
+            - paragraph [ref=e1721]: 자기소개서를 ai에게 부탁했더니 엉망이었다. 그래서 직접 적었다. 붙어야한다는 간절함이 없으니 담담하게 잘써졌다.
+          - listitem [ref=e1722]:
+            - heading "주식" [level=3] [ref=e1723]
+            - list [ref=e1724]:
+              - listitem [ref=e1725]: 미국 주식 대폭락의 날
+          - listitem [ref=e1726]: 특히 방산업체들이 일시에 무너졌다
+          - listitem [ref=e1727]: 비중이 가장 큰 avav가 한벙에 -15%를 먹었다. ktos도 -5%
+          - listitem [ref=e1728]: 망했다ㅠ
+          - listitem [ref=e1729]:
+            - text: 방산 추매를 하다가 잠시 멈췄다.
+            - list [ref=e1730]:
+              - listitem [ref=e1731]: tsls 100주 추매
+      - listitem [ref=e1732]:
+        - heading "2026년 1월 19일 월요일" [level=3] [ref=e1733]:
+          - link "2026년 1월 19일 월요일" [ref=e1734] [cursor=pointer]:
+            - /url: /2026/01/19/
+        - 'heading "수면 : 2시 ~ 11시 20분" [level=4] [ref=e1735]'
+        - list [ref=e1736]:
+          - listitem [ref=e1737]:
+            - heading "작업" [level=3] [ref=e1738]
+            - list [ref=e1739]:
+              - listitem [ref=e1740]: 종일 open ai관련 투자 연구
+        - paragraph [ref=e1741]: 운동완료
+      - listitem [ref=e1742]:
+        - heading "2026년 1월 18일 일요일" [level=3] [ref=e1743]:
+          - link "2026년 1월 18일 일요일" [ref=e1744] [cursor=pointer]:
+            - /url: /2026/01/18/
+        - 'heading "수면 : 3시 ~ 9시 30분" [level=4] [ref=e1745]'
+        - list [ref=e1746]:
+          - listitem [ref=e1747]:
+            - heading "주식" [level=3] [ref=e1748]
+            - list [ref=e1749]:
+              - listitem [ref=e1750]: 추가 1억 대출 시나리오 만들기
+      - listitem [ref=e1751]:
+        - heading "2026년 1월 17일 토요일" [level=3] [ref=e1752]:
+          - link "2026년 1월 17일 토요일" [ref=e1753] [cursor=pointer]:
+            - /url: /2026/01/17/
+        - 'heading "수면 : 2시 ~ 9시 10분 + 낮잠 1시간" [level=4] [ref=e1754]'
+        - list [ref=e1755]:
+          - listitem [ref=e1756]:
+            - heading "작업" [level=3] [ref=e1757]
+            - list [ref=e1758]:
+              - listitem [ref=e1759]: 프렌차이즈 창업박람회 - 코엑스 관람
+          - listitem [ref=e1760]: 고기굽는 냄새가 가득해서 힘들었다
+          - listitem [ref=e1761]: 그냥 창업 박람회인줄 알았는데 ‘프렌차이즈 창업’ 박람회였다. 정리하며 지금 알았다. 어쩐지.
+          - listitem [ref=e1762]: 그래서 가맹점 모집 박람회였다.
+          - listitem [ref=e1763]: 모집에 다들 열심히였다. 관찰을 원했을 뿐 관심이 없던 나는 방어적이었다.
+          - listitem [ref=e1764]: 그래서 미안하기도 했다. 입장바꿔 내가 그들이였던 적도 많지 않은가.
+          - listitem [ref=e1765]: 프렌차이즈도 인지도가 낮은 작은곳은 힘들어보였다.
+          - listitem [ref=e1766]: 남자 혼자 다니는 사람은 거의 나뿐이었다. 여자들이거나 가족이거나 부부 커플사이였다.
+        - list [ref=e1767]:
+          - listitem [ref=e1768]:
+            - text: 가낳지모 - 캣페어 코엑스 관람
+            - list [ref=e1769]:
+              - listitem [ref=e1770]: 위 창업박람회와 확실히 다른 분위기였다.
+              - listitem [ref=e1771]: 여기도 남자 혼자 다니는 건 나뿐이었다. 여자들이거나 가족이거나 부부 커플사이였다ㅠ
+              - listitem [ref=e1772]: 고양이 자동화장실은 마음에 들었다. 사려고한다.
+              - listitem [ref=e1773]: 나무는 미끼가 조금만 커도 쫄아서 작은걸 찾아다녔는데 이곳에서 발견했다. 5개에 만원. 나무가 좋아할거라 예상했었는데 정말 환장하며 좋아했다. 타오바오에서 샀다면 5개에 500원도 안했을테지만 잘샀다.
+              - listitem [ref=e1774]: 마따따비를 아주 재밌게 팔고 계셨다. 아무래도 의심스러워 6천원에 한봉지만 샀다. 역시나 나무는 안좋아했다ㅋ
+              - listitem [ref=e1775]: 고양이 보험도 있었다. db였다. 여기에 사람들이 가장 많았다.
+              - listitem [ref=e1776]: 대부분이 장난감과 간식들, 캣타워 전시였다.
+              - listitem [ref=e1777]: 고양이 좋아하는 사람들과 함께해서 기분이 좋았다.
+          - listitem [ref=e1778]:
+            - text: 삼성역에서 역삼역까지 걷기
+            - list [ref=e1779]:
+              - listitem [ref=e1780]: 아주 오랜만에 이 거리를 걸었다.
+              - listitem [ref=e1781]: 삼성역 현대백화점에서 점심을 때울까 했는데 사람들이 너무 많아 돌아나왔다
+              - listitem [ref=e1782]: 가는길에 롯데리아에 들려 새우버거를 먹었다. 정~말 맛없었다.
+              - listitem [ref=e1783]: 우리나라 평균키가 5cm는 커진거 같다.
+              - listitem [ref=e1784]: 직장인 시절 가끔 갔던 던킨도너츠는 아직도 건재했다. 대견한 느낌까지 들었다.
+              - listitem [ref=e1785]: 대로에 있는 큰 건물들은 하나같이 ‘파이낸스’ 건물들이다. 돈과 가까울수록 돈을 많이 가져가기 때문일거다.
+              - listitem [ref=e1786]: 고객과 가까울 수록 고객의 마음을 많이 가져간다. 고객은 정성적이고 돈은 정량적이다.
+              - listitem [ref=e1787]: 하나는 애플이고 하나는 jp모건이다. 그 사이에 있다면 구글정도일까.
+              - listitem [ref=e1788]: 나는 jp모건의 돈으로 구글을 만들어야한다.
+        - list [ref=e1789]:
+          - listitem [ref=e1790]:
+            - heading "주식" [level=3] [ref=e1791]
+            - list [ref=e1792]:
+              - listitem [ref=e1793]: 알파벳a 3주 $329.71 매수
+              - listitem [ref=e1794]: ttwo 1주 $242.31 매수
+      - listitem [ref=e1795]:
+        - heading "2026년 1월 16일 금요일" [level=3] [ref=e1796]:
+          - link "2026년 1월 16일 금요일" [ref=e1797] [cursor=pointer]:
+            - /url: /2026/01/16/
+        - 'heading "수면 : 1시 20분 ~ 8시 20분 : 낮잠마저 자기 않았다. 종일 머리가 맑았다. 7시간 수면으로 이게 얼마만인가" [level=4] [ref=e1798]'
+        - list [ref=e1799]:
+          - listitem [ref=e1800]:
+            - heading "작업" [level=3] [ref=e1801]
+            - list [ref=e1802]:
+              - listitem [ref=e1803]: 부가가치세 신고 완료
+          - listitem [ref=e1804]: 무려 5일간 작업했다.
+          - listitem [ref=e1805]: 쿠팡이 교보문고로 들어가고 aws로 들어가고 계속 이름이 바뀌었다. 알고보니 결제 사업자번호가 모두 같았기 때문이다. nhn결제를 이용해서였다.
+          - listitem [ref=e1806]: 그래서 일일이 모두 바꿔줘야했다.
+          - listitem [ref=e1807]: 이지샵 고객상담해주시는 분이 고생많이하셨다.
+          - listitem [ref=e1808]: 감사하다. 덕분에 신청완료했다.
+          - listitem [ref=e1809]: 그런데 세금신고는 할때마다 새롭고 어렵다.
+        - list [ref=e1810]:
+          - listitem [ref=e1811]:
+            - text: 공인인증서 갱신 –> 완료
+            - list [ref=e1812]:
+              - listitem [ref=e1813]: 기업 공인인증서는 아직 한달전이라 아니라고 안된다. 5일 더 기다려야한다.
+              - listitem [ref=e1814]: 여전히 거지같다. 구글캘린더에 일정 등록했다
+        - list [ref=e1815]:
+          - listitem [ref=e1816]:
+            - heading "주식" [level=3] [ref=e1817]
+            - list [ref=e1818]:
+              - listitem [ref=e1819]: 알파벳a 5주 $332.14, 2주 $330.98 매수
+              - listitem [ref=e1820]: tsls 100주 $5.16
+      - listitem [ref=e1821]:
+        - heading "2026년 1월 15일 목요일" [level=3] [ref=e1822]:
+          - link "2026년 1월 15일 목요일" [ref=e1823] [cursor=pointer]:
+            - /url: /2026/01/15/
+        - 'heading "수면 : 1시 50분 ~ 10시" [level=4] [ref=e1824]'
+        - list [ref=e1825]:
+          - listitem [ref=e1826]:
+            - 'heading "주식 : 오늘은 주가가 많이 떨어진것 위주로 추가매수했다." [level=3] [ref=e1827]'
+            - list [ref=e1828]:
+              - listitem [ref=e1829]: 놀랍게도 미국 재무부장관 베센트 게이새끼가 말한마디했다고 환율이 한번에 15원 급락했다.
+          - listitem [ref=e1830]: 떨어뜨리려면 1450원 이하로 떨어뜨리던가 애매하다.
+          - listitem [ref=e1831]:
+            - text: 대기한다
+            - list [ref=e1832]:
+              - listitem [ref=e1833]: 달러 환전 400만원 -> $2724.42 (1468.20)
+              - listitem [ref=e1834]: bwx 4주 $204.09 매수
+              - listitem [ref=e1835]: 차이나휴머로이드로봇 100주 ₩14,190원
+              - listitem [ref=e1836]: krx금현물 1g ₩218,390, 5g ₩218,170 매수
+              - listitem [ref=e1837]: tsls 100주 $5.19, 100주 $5.16 총 200주 추매
+              - listitem [ref=e1838]: avav 5주 $370.54 추매
+              - listitem [ref=e1839]: mp 20주 $66.87 추매
+              - listitem [ref=e1840]: ktos 10주 $119.01 추매
+        - paragraph [ref=e1841]: 남은 와인 모두 마심. 하기싫은 세금신고 작성하면서 마심. 이것도 이제 거의 다 끝나감
+      - listitem [ref=e1842]:
+        - heading "2026년 1월 14일 수요일" [level=3] [ref=e1843]:
+          - link "2026년 1월 14일 수요일" [ref=e1844] [cursor=pointer]:
+            - /url: /2026/01/14/
+        - 'heading "수면 : 2시 ~ 11시 10분 : 여전히 인간의 한계를 뛰어넘는 수면시간을 보여주고 있다" [level=4] [ref=e1845]'
+        - list [ref=e1846]:
+          - listitem [ref=e1847]:
+            - heading "주식" [level=3] [ref=e1848]
+            - list [ref=e1849]:
+              - listitem [ref=e1850]: 소프트뱅크 100주 신규매수
+              - listitem [ref=e1851]: krx금현물 10g ₩217,760 추매
+              - listitem [ref=e1852]: 알파벳 $334.47에 10주 매도, $333.37에 8주 매도
+              - listitem [ref=e1853]: avav $353.99에 2주 추매, $355.08에 2주 추매
+              - listitem [ref=e1854]: bwxt $204.09에 4주 추매
+              - listitem [ref=e1855]: isrg $536.75에 1주 추매
+          - listitem [ref=e1856]:
+            - heading "작업" [level=3] [ref=e1857]
+            - list [ref=e1858]:
+              - listitem [ref=e1859]: 테슬라 사이버 트럭 예약금 반황요청
+          - listitem [ref=e1860]: tsls를 계속 매수하는 상황에 저걸 유지하고 있다는게 너무 웃겼다.
+          - listitem [ref=e1861]: 100달러 취소요청. 언제 돈이 들어오는지 보자
+        - paragraph [ref=e1862]: 운동완료. 요새 운동이 왜이렇게 힘든지 모르겠다 와인 약간 1/3컵 정도만 마셨는데 더 이상 못마시겠다. 예전에는 한병을 다 마셔도 부족해 한병 더 사서 절반을 마셨었는데 지금은 와인 목에 있는 양도 안마셨는데 ‘더이상’ 안마시고 싶었다. 좋아했던 와인이었는데 말이다. 세상에
+      - listitem [ref=e1863]:
+        - heading "2026년 1월 13일 화요일" [level=3] [ref=e1864]:
+          - link "2026년 1월 13일 화요일" [ref=e1865] [cursor=pointer]:
+            - /url: /2026/01/13/
+        - 'heading "수면 : 새벽 1시 55분 ~ 11시 30분 : 가끔 내가 사람인가 싶다" [level=4] [ref=e1866]'
+        - list [ref=e1867]:
+          - listitem [ref=e1868]:
+            - heading "주식" [level=3] [ref=e1869]
+            - list [ref=e1870]:
+              - listitem [ref=e1871]: 환율이 다시 오르고 있다.
+          - listitem [ref=e1872]: 크지 않지만 2400만원을 달러로 환전한게 큰 도움이 되고 있다.
+          - listitem [ref=e1873]:
+            - text: 정부가 한번 더 확실한 뿅망치로 때려준다면 이번에는 아예 1억을 대출해 환전할 계획이다.
+            - list [ref=e1874]:
+              - listitem [ref=e1875]: 많은 종목들을 사고 있다
+          - listitem [ref=e1876]: 거래 계좌에 돌리고 있는것만 12개다
+          - listitem [ref=e1877]:
+            - text: 트럼프관련주들 뿐 아니라 tsls와 애플, 아마존도 샀다.
+            - list [ref=e1878]:
+              - listitem [ref=e1879]: krx금현물 1g매수
+          - listitem [ref=e1880]:
+            - text: 그냥 500만원어치만 살까한다
+            - list [ref=e1881]:
+              - listitem [ref=e1882]: ktos 10주 $117.44
+              - listitem [ref=e1883]: 애플 10주 $259.84 신규매수
+              - listitem [ref=e1884]: tsls 50주 $5.07
+              - listitem [ref=e1885]: mp 10주 $64.83 추매
+      - listitem [ref=e1886]:
+        - heading "2026년 1월 12일 월요일" [level=3] [ref=e1887]:
+          - link "2026년 1월 12일 월요일" [ref=e1888] [cursor=pointer]:
+            - /url: /2026/01/12/
+        - 'heading "수면 : 새벽 2시 20분 ~ 9시 10분" [level=4] [ref=e1889]'
+        - list [ref=e1890]:
+          - listitem [ref=e1891]:
+            - heading "주식" [level=3] [ref=e1892]
+            - list [ref=e1893]:
+              - listitem [ref=e1894]: 제미나이와 세운 전략을 실행한다.
+          - listitem [ref=e1895]:
+            - text: 로봇 및 방산, 드론 주식들 계속 매수중
+            - list [ref=e1896]:
+              - listitem [ref=e1897]: 아마존 10주 $204.71 매수
+              - listitem [ref=e1898]: mp 20주 $64.56 신규매수
+              - listitem [ref=e1899]: flr 20주 $44.90 신규매수
+              - listitem [ref=e1900]: bwx 2주 $204.95
+              - listitem [ref=e1901]: ktos 5주 $115.78
+              - listitem [ref=e1902]: ktos 10주 $115.31
+              - listitem [ref=e1903]: avav 1주 $362.46
+              - listitem [ref=e1904]: tsls 20주 $5.06, tsls 20주 $5.08, tsls 10주 $5.11
+              - listitem [ref=e1905]: geo 30주 $17.61
+        - paragraph [ref=e1906]: 운동완료
+      - listitem [ref=e1907]:
+        - heading "2026년 1월 11일 일요일" [level=3] [ref=e1908]:
+          - link "2026년 1월 11일 일요일" [ref=e1909] [cursor=pointer]:
+            - /url: /2026/01/11/
+        - 'heading "수면 : 3시 40분 ~ 10시 50분" [level=4] [ref=e1910]'
+        - list [ref=e1911]:
+          - listitem [ref=e1912]:
+            - heading "주식" [level=3] [ref=e1913]
+            - list [ref=e1914]:
+              - listitem [ref=e1915]: 중국로봇 주식 천만원 이상 매수 완료
+      - listitem [ref=e1916]:
+        - heading "2026년 1월 10일 토요일" [level=3] [ref=e1917]:
+          - link "2026년 1월 10일 토요일" [ref=e1918] [cursor=pointer]:
+            - /url: /2026/01/10/
+        - 'heading "수면 : 1시 ~ 9시" [level=4] [ref=e1919]'
+        - list [ref=e1920]:
+          - listitem [ref=e1921]:
+            - heading "주식" [level=3] [ref=e1922]
+            - list [ref=e1923]:
+              - listitem [ref=e1924]: 트럼트의 행동에 기반한 종목과 기업 선택 –> gemini기반으로 8시간 넘게 회의함. chatgpt도 2시간 교차 확인함.
+          - listitem [ref=e1925]: 이제 매수 드가자
+      - listitem [ref=e1926]:
+        - heading "2026년 1월 09일 금요일" [level=3] [ref=e1927]:
+          - link "2026년 1월 09일 금요일" [ref=e1928] [cursor=pointer]:
+            - /url: /2026/01/09/
+        - 'heading "수면 : 1시 ~ 9시 20분" [level=4] [ref=e1929]'
+        - list [ref=e1930]:
+          - listitem [ref=e1931]:
+            - heading "주식" [level=3] [ref=e1932]
+            - list [ref=e1933]:
+              - listitem [ref=e1934]: 테라다인 ter 6주 추매
+              - listitem [ref=e1935]: avav 10주 추매
+              - listitem [ref=e1936]: isrg 1주 추매
+      - listitem [ref=e1937]:
+        - heading "2026년 1월 08일 목요일" [level=3] [ref=e1938]:
+          - link "2026년 1월 08일 목요일" [ref=e1939] [cursor=pointer]:
+            - /url: /2026/01/08/
+        - 'heading "수면 : 2시 17분 ~ 9시 50분" [level=4] [ref=e1940]'
+        - list [ref=e1941]:
+          - listitem [ref=e1942]:
+            - heading "주식" [level=3] [ref=e1943]
+            - list [ref=e1944]:
+              - listitem [ref=e1945]: 3백만원 달러환전 –> $2069.67 (1449.5)
+          - listitem [ref=e1946]:
+            - text: 총 2400만원 환전, 600만원 남음
+            - list [ref=e1947]:
+              - listitem [ref=e1948]: tiger차이나로봇 - 13,835원 100주 추매
+          - listitem [ref=e1949]: 총 664주, 평가금액 920만원
+      - listitem [ref=e1950]:
+        - heading "2026년 1월 07일 수요일" [level=3] [ref=e1951]:
+          - link "2026년 1월 07일 수요일" [ref=e1952] [cursor=pointer]:
+            - /url: /2026/01/07/
+        - 'heading "수면 : 1시 ~ 8시 7분 : 잘잤다" [level=4] [ref=e1953]'
+        - list [ref=e1954]:
+          - listitem [ref=e1955]:
+            - heading "작업" [level=3] [ref=e1956]
+            - list [ref=e1957]:
+              - listitem [ref=e1958]: 서버 내부 대청소 –> 완료
+          - listitem [ref=e1959]: 서버 먼지제거를 10개월이나 안했다.
+          - listitem [ref=e1960]: 오랜만에 모든 먼지를 털고 cpu쿨러를 분해하고 써멀구리스를 다시 발랐다.
+          - listitem [ref=e1961]: 청소후 서버를 다시 켰는데 키보드 numlock키에 불이 안들어왔다. 다른 컴퓨터들에 연결해봐도 안들어왔다.
+          - listitem [ref=e1962]: 세상에. 키보드가 고장난건 나의 긴 pc역사에서 처음이었다.
+          - listitem [ref=e1963]: 2018년 서버라 블루투스나 와이파이, usb c타입등 메인보드에 아무것도 연결할수 없다.
+          - listitem [ref=e1964]: 작은 키보드 하나 장바구니에 넣었다. 나중에 주문해야지.
+          - listitem [ref=e1965]:
+            - paragraph [ref=e1966]: 어쨌든 잘돌아간다. 청소도 잘 안해주는 8년이 넘은 구식 서버임에도 여전히 안정적으로 잘돌아간다. 당시 230만원인가 주고 샀다. dell서버다. 한번도 그냥 죽은적거나 말썽을 일으킨적이 없다. 아주 사랑스러운 놈이다. 심지어 10개월전 청소때 써멀구리스가 없어서 그냥 쿨러와 연결했음에도 그 동안 아무 문제 안일으켰다. 쟤 떠날때 제사 지내줄거다.
+          - listitem [ref=e1967]:
+            - heading "주식" [level=3] [ref=e1968]
+            - list [ref=e1969]:
+              - listitem [ref=e1970]: avav 2주추매, ter 2주추매
+              - listitem [ref=e1971]: 500만원 달러환전 –> $3,451.17 (1448.78)
+          - listitem [ref=e1972]:
+            - text: 총 2100만원 환전. 엔화 환전을 하지 않기로 했기에 총 3천만원 환전예정. 현재 9백만원 남음
+            - list [ref=e1973]:
+              - listitem [ref=e1974]: 닌텐도 100주 10,305엔에 매도 –> 42만원 손실. 하루 -5.2% 더 이상 참을수 없어 매도했다.
+          - listitem [ref=e1975]: 다시 올라간다해도 미련이 없다.
+          - listitem [ref=e1976]: 더 이상 참을수 없다고 느꼈을때 2주만 더 기다려본다는 적용할수가 없다. 너무 미래가 어둡다.
+          - listitem [ref=e1977]: 마리오가 인기를 끈다해도 역전이 어려워보인다.
+          - listitem [ref=e1978]: 일본과 중국의 반도체 전쟁이 닌텐도에 영향을 줄거라는 상상도 못했다.
+          - listitem [ref=e1979]: 이 돈으로 그냥 기존 미쯔비시나 더 사련다. 이번 큰 손실로 엔화 수익은 다시 0이 됐다. 처음부터 시작이다.
+          - listitem [ref=e1980]: 하지만 환율은 그때보다도 더 떨어졌다. 일본에 와서 심하게 당하고 있다. 조상님을 봴 면목이 없다 ㅠ
+          - listitem [ref=e1981]:
+            - text: 그리고 이렇게 거래자체가 어려워 매수매도 유동성이 떨어지는 주식은 다시는 사지 않겠다.
+            - list [ref=e1982]:
+              - listitem [ref=e1983]: 미쯔비시ufj파이넨셜 100주 추매 2602.25
+          - listitem [ref=e1984]: 돌이켜보면 내가 이 주식을 팔고 닌텐도로 갔던게 모든 나락의 시작이었다. 당시 남겨놓은 200주는 거기서 수익이 2배로 올라갔다. 그 사이 닌텐도는 -25%를 찍었다. 이렇게 선택이 중요하다.
+          - listitem [ref=e1985]:
+            - text: 3일후 매도한 엔화와 ufj주식이 들어오면 키움으로 이동한다.
+            - list [ref=e1986]:
+              - listitem [ref=e1987]: 자기전 ter 2주 추매
+      - listitem [ref=e1988]:
+        - heading "2026년 1월 06일 화요일" [level=3] [ref=e1989]:
+          - link "2026년 1월 06일 화요일" [ref=e1990] [cursor=pointer]:
+            - /url: /2026/01/06/
+        - 'heading "수면 : 3시 15분 ~ 9시 35분" [level=4] [ref=e1991]'
+        - list [ref=e1992]:
+          - listitem [ref=e1993]:
+            - heading "작업" [level=3] [ref=e1994]
+            - list [ref=e1995]:
+              - listitem [ref=e1996]: 하루종일 AI와 전략수립중
+          - listitem [ref=e1997]:
+            - heading "주식 - 속도를 지금보다 20%만 더 내자. 지금은 조금 더 빠른 속도가 필요하다" [level=3] [ref=e1998]
+            - list [ref=e1999]:
+              - listitem [ref=e2000]: 500만원 환전 –> $3,449.82 (1449.35)
+              - listitem [ref=e2001]: 500만원 추가환전 –> $3458.29 (1445.80)
+          - listitem [ref=e2002]:
+            - text: 현재 총 1,600만원 달러로 환전.
+            - list [ref=e2003]:
+              - listitem [ref=e2004]: 어제 에어로바이런먼트가 +16%가 올랐다.
+              - listitem [ref=e2005]: 닌텐도를 너무나 팔아버리고 싶다.
+          - listitem [ref=e2006]: 더 이상 못견디겠다는 느낌일때가 오히려 매수시기였다는 ‘경험’이 있다.
+          - listitem [ref=e2007]:
+            - text: 하지만 사지는 못하겠으니 일단 2주일만 더 기다려보겠다. 손실이 나더라도 말이다.
+            - list [ref=e2008]:
+              - listitem [ref=e2009]: 9660 호라이즌 로보틱스 홍콩
+          - listitem [ref=e2010]: 홍콩달러 환전시 키움 우대 95%, 메리츠 우대 80%
+          - listitem [ref=e2011]:
+            - text: 고민이 된다. 일본주식과 홍콩주식은 그냥 기존 키움에서 계속 거래하는게 어떨까. 조금만 더 고민한후 결정하자.
+            - list [ref=e2012]:
+              - listitem [ref=e2013]: tiger중국로봇 13,995원 100주 추매
+      - listitem [ref=e2014]:
+        - heading "2026년 1월 05일 월요일" [level=3] [ref=e2015]:
+          - link "2026년 1월 05일 월요일" [ref=e2016] [cursor=pointer]:
+            - /url: /2026/01/05/
+        - 'heading "수면 : 3시 50분 ~ 11시 20분" [level=4] [ref=e2017]'
+        - list [ref=e2018]:
+          - listitem [ref=e2019]:
+            - heading "작업" [level=3] [ref=e2020]
+            - list [ref=e2021]:
+              - listitem [ref=e2022]: 5천만원 대출완료
+          - listitem [ref=e2023]: 6백만원 -> $4,152.52(환율 1445.6)
+      - listitem [ref=e2024]:
+        - heading "2026년 1월 04일 일요일" [level=3] [ref=e2025]:
+          - link "2026년 1월 04일 일요일" [ref=e2026] [cursor=pointer]:
+            - /url: /2026/01/04/
+        - 'heading "수면 : 1시 ~ 9시 50분" [level=4] [ref=e2027]'
+        - list [ref=e2028]:
+          - listitem [ref=e2029]:
+            - heading "작업" [level=3] [ref=e2030]
+            - list [ref=e2031]:
+              - listitem [ref=e2032]: 밤새 ai와 함께 나에대해 분석함
+        - paragraph [ref=e2033]: 한본설렁탕 먹음. 이 한끼로 하루종일 배가 불러서 아무것도 먹지 못함. 함께 나온 약간의 술때문에 머리아프고 어지러워 밤새 정신을 못차림. 내가 이렇게까지 약해졌나.
+      - listitem [ref=e2034]:
+        - heading "2026년 1월 03일 토요일" [level=3] [ref=e2035]:
+          - link "2026년 1월 03일 토요일" [ref=e2036] [cursor=pointer]:
+            - /url: /2026/01/03/
+        - 'heading "수면 : 1시 ~ 11시 : 인간인가" [level=4] [ref=e2037]'
+        - list [ref=e2038]:
+          - listitem [ref=e2039]:
+            - heading "작업" [level=3] [ref=e2040]
+            - list [ref=e2041]:
+              - listitem [ref=e2042]: 월요일 5천만원 대출하기로 결정
+          - listitem [ref=e2043]:
+            - heading "개발" [level=3] [ref=e2044]
+            - list [ref=e2045]:
+              - listitem [ref=e2046]: tiptap 디자인 변경
+          - listitem [ref=e2047]: 모바일에서 글쓰기 창 height 줄이기
+      - listitem [ref=e2048]:
+        - heading "2026년 1월 02일 금요일" [level=3] [ref=e2049]:
+          - link "2026년 1월 02일 금요일" [ref=e2050] [cursor=pointer]:
+            - /url: /2026/01/02/
+        - 'heading "수면 : 새벽 1시 ~ 9시 30분" [level=4] [ref=e2051]'
+        - list [ref=e2052]:
+          - listitem [ref=e2053]:
+            - heading "작업" [level=3] [ref=e2054]
+            - list [ref=e2055]:
+              - listitem [ref=e2056]: 자동차 점검 다녀오기 –> 완료
+          - listitem [ref=e2057]: 역시나 길을 잘못들어서 15분 늦었다. 그럼에도 15분전에 도착했다. 내 자신을 미리 예측했긴 때문이다;
+          - listitem [ref=e2058]: 내 앞에 차가 한대도 없었다. 그래서 가자마자 바로 점검 받을수 있었다.
+          - listitem [ref=e2059]:
+            - text: 나이스. 10분만에 점검 받고 돌아왔다.
+            - list [ref=e2060]:
+              - listitem [ref=e2061]: AWS 기본결제 카드 변경
+          - listitem [ref=e2062]: 기존 카드 기한 만료로 카드 교체
+      - listitem [ref=e2063]:
+        - heading "2026년 1월 01일 목요일" [level=3] [ref=e2064]:
+          - link "2026년 1월 01일 목요일" [ref=e2065] [cursor=pointer]:
+            - /url: /2026/01/01/
+        - 'heading "수면 : 1시 50분 ~ 9시 50분" [level=4] [ref=e2066]'
+        - list [ref=e2067]:
+          - listitem [ref=e2068]:
+            - heading "작업" [level=3] [ref=e2069]
+            - list [ref=e2070]:
+              - listitem [ref=e2071]: 조용히 한해 계획세우기
+        - paragraph [ref=e2072]: 부모님댁에 다녀옴
+  - contentinfo [ref=e2073]:
+    - generic [ref=e2074]:
+      - heading "희미한 주식회사" [level=2] [ref=e2075]
+      - generic [ref=e2076]:
+        - list [ref=e2078]:
+          - listitem [ref=e2079]: 우강
+        - generic [ref=e2080]:
+          - list
+        - paragraph [ref=e2082]: 매일기록
