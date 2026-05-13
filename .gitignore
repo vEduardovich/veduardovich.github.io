@@ -1,3 +1,10 @@
+# ai coding
+.claude
+docs
+tests
+GEMINI.md
+.gitignore
+
 # Nuxt dev/build outputs
 .output
 .data
