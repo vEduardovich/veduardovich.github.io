@@ -56,6 +56,10 @@ h4 {
   }
 }
 
+.page-content {
+  padding-top: 15px;
+}
+
 .site-footer {
   border-top: 1px solid #424242;
   background-color: #181818;

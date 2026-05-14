@@ -38,7 +38,7 @@ layout: default
     <hr>
   {% endif %}
 
-  <ul class="post-list" style='margin-top:50px;'>
+  <ul class="post-list">
     {% for post in site.posts %}
       {% unless post.sticky %}
         {% assign post_year = post.date | date: "%Y" %}
