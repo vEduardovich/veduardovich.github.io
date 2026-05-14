@@ -42,7 +42,7 @@ h4 {
   color: #9575CD;
 }
 .site-header {
-  border-top: 5px solid #424242;
+  border-top: none;
   border-bottom: 1px solid #424242;
   background-color: #181818;
   display: flex;
