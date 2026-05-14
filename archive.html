@@ -15,21 +15,8 @@ permalink: /archive/
 {% endfor %}
 {% assign all_years = all_years | sort | reverse %}
 
-{% for year in all_years %}
-  <h2 id="{{ year }}">{{ year }}년</h2>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% assign post_year = post.date | date: "%Y" %}
-      {% if post_year == year %}
-        <li>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {{ post.content }}
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-{% endfor %}
+<ul>
+  {% for year in all_years %}
+    <li><a href="{{ '/' | append: year | append: '/' | relative_url }}">{{ year }}년</a></li>
+  {% endfor %}
+</ul>

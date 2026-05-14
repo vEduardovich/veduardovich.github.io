@@ -23,7 +23,7 @@ permalink: /categories/
   {% endfor %}
   {% assign all_years = all_years | sort | reverse %}
   {% for year in all_years %}
-    <li><a href="{{ '/archive/' | relative_url }}#{{ year }}">{{ year }}년 기록</a></li>
+    <li><a href="{{ '/' | append: year | append: '/' | relative_url }}">{{ year }}년 기록</a></li>
   {% endfor %}
 </ul>
 
