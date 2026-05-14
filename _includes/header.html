@@ -3,7 +3,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
 
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}" style="display: flex; align-items: center; gap: 8px;">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
       <img src="{{ '/bi.svg' | relative_url }}" alt="logo" style="width: 28px; height: 28px;">
       {{ site.title | escape }}
     </a>
