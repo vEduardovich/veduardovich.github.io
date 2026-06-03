@@ -5,6 +5,7 @@ tests
 GEMINI.md
 .gitignore
 .playwright-mcp
+.mcp.json
 
 # Nuxt dev/build outputs
 .output
