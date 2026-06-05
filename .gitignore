@@ -6,6 +6,8 @@ GEMINI.md
 .gitignore
 .playwright-mcp
 .mcp.json
+.antigravitycli
+.uppu
 
 # Nuxt dev/build outputs
 .output
