@@ -14,16 +14,11 @@ permalink: /categories/
       <li><a href="#{{ category | slugify }}">{{ category }}</a></li>
     {% endif %}
   {% endfor %}
-  {% assign all_years = "" | split: "" %}
-  {% for post in site.posts %}
-    {% assign post_year = post.date | date: "%Y" %}
-    {% unless all_years contains post_year %}
-      {% assign all_years = all_years | push: post_year %}
-    {% endunless %}
-  {% endfor %}
-  {% assign all_years = all_years | sort | reverse %}
-  {% for year in all_years %}
-    <li><a href="{{ '/' | append: year | append: '/' | relative_url }}">{{ year }}년 기록</a></li>
+  {% comment %} 연도 링크는 연도 페이지(year 필드, 예: 2025.html)가 실제 있는 것만 나열한다
+     — 포스트 연도로 만들면 페이지 없는 연도(2015 등)가 깨진 링크로 뜬다 {% endcomment %}
+  {% assign year_pages = site.pages | where_exp: "p", "p.year" | sort: "year" | reverse %}
+  {% for p in year_pages %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
   {% endfor %}
 </ul>
 
