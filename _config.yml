@@ -11,3 +11,7 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# 엔터 1개를 줄바꿈(<br>)으로 — 선장 글은 엔터 1개로 줄을 나눈다
+kramdown:
+  hard_wrap: true
